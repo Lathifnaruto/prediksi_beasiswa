@@ -1,0 +1,1001 @@
+ID,Nama,Pendapatan_Keluarga,Jumlah_Tanggungan,IPK,Semester,Usia,Status_Orang_Tua,Aktivitas_Organisasi,Pekerjaan_Sampingan,Skor_Motivasi
+1,Gita,3213573,5,3.94,4,19,Yatim,Aktif,Ada,91
+2,Tari,1525893,4,3.23,1,18,Yatim Piatu,Tidak Aktif,Ada,91
+3,Omar,4610102,4,2.66,7,24,Yatim,Aktif,Tidak Ada,69
+4,Kartini,3169455,3,3.32,7,22,Yatim,Tidak Aktif,Ada,58
+5,Hendra,3255363,3,3.18,1,22,Piatu,Tidak Aktif,Ada,66
+6,Udin,1994653,4,3.77,6,19,Yatim Piatu,Aktif,Tidak Ada,76
+7,Gita,1187210,5,2.65,2,18,Yatim,Tidak Aktif,Ada,96
+8,Sandi,4931965,4,3.23,2,20,Yatim,Aktif,Ada,51
+9,Wawan,1862557,7,2.73,1,24,Yatim Piatu,Tidak Aktif,Ada,85
+10,Kartini,3242142,5,2.99,2,19,Lengkap,Tidak Aktif,Ada,68
+11,Kartini,2207094,3,3.61,5,18,Lengkap,Tidak Aktif,Tidak Ada,66
+12,Yani,3221192,1,3.21,4,24,Yatim,Tidak Aktif,Ada,54
+13,Udin,1668406,6,3.06,4,22,Yatim,Aktif,Tidak Ada,88
+14,Dedi,4668866,7,3.09,1,18,Lengkap,Tidak Aktif,Ada,67
+15,Hendra,1418034,7,3.19,3,18,Piatu,Tidak Aktif,Tidak Ada,56
+16,Yani,3853406,3,3.68,8,23,Yatim Piatu,Aktif,Ada,66
+17,Citra,2033255,3,3.84,6,18,Yatim Piatu,Aktif,Tidak Ada,88
+18,Vina,3887908,2,3.93,1,20,Piatu,Aktif,Ada,85
+19,Udin,1795543,7,3.68,2,18,Piatu,Aktif,Tidak Ada,89
+20,Budi,4052766,2,2.97,6,20,Piatu,Aktif,Tidak Ada,94
+21,Yani,1540677,2,3.53,3,22,Piatu,Aktif,Ada,53
+22,Lukman,2695041,6,3.16,2,20,Piatu,Tidak Aktif,Tidak Ada,87
+23,Fajar,4449299,2,2.88,7,24,Piatu,Aktif,Ada,74
+24,Budi,4094235,5,3.76,8,22,Yatim Piatu,Tidak Aktif,Ada,54
+25,Udin,2732682,4,2.56,5,22,Piatu,Aktif,Ada,79
+26,Aisyah,2171459,1,3.85,2,20,Lengkap,Tidak Aktif,Ada,61
+27,Lukman,2791822,3,3.19,5,19,Piatu,Tidak Aktif,Ada,53
+28,Vina,3859653,5,3.46,6,21,Piatu,Tidak Aktif,Tidak Ada,73
+29,Lukman,2966197,1,3.49,5,18,Yatim Piatu,Aktif,Ada,78
+30,Zaki,1387952,7,3.84,6,23,Yatim Piatu,Aktif,Ada,58
+31,Qori,3209373,7,3.46,6,21,Piatu,Aktif,Ada,53
+32,Joko,2030117,7,3.42,6,18,Yatim Piatu,Aktif,Ada,100
+33,Putu,3896818,5,2.6,6,18,Yatim,Tidak Aktif,Ada,73
+34,Omar,3357821,5,3.28,6,22,Yatim Piatu,Aktif,Ada,63
+35,Omar,3856376,3,2.73,2,18,Yatim Piatu,Tidak Aktif,Tidak Ada,54
+36,Sandi,3937025,4,3.61,6,23,Yatim Piatu,Tidak Aktif,Tidak Ada,67
+37,Lukman,1525134,2,3.27,2,18,Yatim Piatu,Aktif,Ada,91
+38,Wawan,4680970,7,3.52,6,20,Lengkap,Aktif,Tidak Ada,68
+39,Tari,2389959,6,2.56,5,21,Lengkap,Aktif,Ada,61
+40,Zaki,1244761,4,2.63,7,20,Lengkap,Tidak Aktif,Ada,67
+41,Citra,3930098,6,3.57,6,23,Piatu,Aktif,Ada,66
+42,Eka,3971820,3,2.61,3,18,Piatu,Tidak Aktif,Ada,79
+43,Sandi,3234693,3,2.61,6,24,Yatim,Aktif,Ada,73
+44,Gita,1947609,3,2.52,6,23,Lengkap,Tidak Aktif,Tidak Ada,60
+45,Udin,2877109,1,3.93,5,22,Piatu,Aktif,Tidak Ada,84
+46,Ika,1064323,6,3.61,8,20,Yatim Piatu,Aktif,Tidak Ada,72
+47,Gita,3713362,4,3.03,4,20,Yatim Piatu,Tidak Aktif,Tidak Ada,66
+48,Rani,2237715,4,2.94,5,19,Lengkap,Aktif,Ada,50
+49,Dedi,4326176,5,3.02,3,18,Yatim,Aktif,Tidak Ada,64
+50,Zaki,4846675,5,3.66,4,22,Yatim,Aktif,Ada,81
+51,Nina,1954480,7,3.49,1,24,Yatim Piatu,Aktif,Tidak Ada,58
+52,Rani,3332811,5,2.78,1,20,Yatim,Aktif,Tidak Ada,64
+53,Ika,3486830,3,2.76,8,20,Lengkap,Aktif,Tidak Ada,77
+54,Udin,1854016,4,2.65,3,22,Yatim Piatu,Aktif,Tidak Ada,73
+55,Budi,2153113,6,3.49,5,23,Piatu,Tidak Aktif,Ada,84
+56,Tari,1864909,3,3.65,2,23,Piatu,Tidak Aktif,Tidak Ada,71
+57,Omar,3339135,1,2.9,3,18,Yatim,Aktif,Tidak Ada,76
+58,Gita,2615397,5,2.53,7,19,Yatim Piatu,Aktif,Ada,68
+59,Lukman,1788260,3,2.62,4,20,Yatim Piatu,Aktif,Ada,94
+60,Hendra,2050493,3,3.95,4,19,Piatu,Tidak Aktif,Tidak Ada,61
+61,Omar,1282762,1,2.94,6,23,Yatim Piatu,Tidak Aktif,Ada,69
+62,Citra,2605118,2,3.65,1,23,Yatim Piatu,Aktif,Ada,50
+63,Nina,3883427,4,3.44,8,21,Yatim Piatu,Tidak Aktif,Ada,70
+64,Qori,2416012,6,3.07,4,24,Yatim,Aktif,Tidak Ada,98
+65,Dedi,2558506,7,2.81,3,18,Yatim Piatu,Aktif,Ada,94
+66,Rani,1571650,2,2.68,4,21,Lengkap,Aktif,Tidak Ada,50
+67,Hendra,1282272,5,3.42,8,24,Yatim,Aktif,Tidak Ada,59
+68,Dedi,1385925,3,3.66,8,21,Yatim Piatu,Tidak Aktif,Tidak Ada,96
+69,Budi,3863793,1,3.47,8,21,Yatim Piatu,Tidak Aktif,Tidak Ada,81
+70,Fajar,1714743,1,3.3,3,18,Lengkap,Aktif,Ada,88
+71,Vina,3686985,4,2.56,2,18,Yatim,Tidak Aktif,Tidak Ada,71
+72,Joko,4227908,2,3.95,6,22,Piatu,Tidak Aktif,Ada,67
+73,Dedi,4757974,7,3.7,1,19,Piatu,Aktif,Tidak Ada,97
+74,Vina,1403081,4,2.94,4,19,Yatim,Tidak Aktif,Ada,95
+75,Rani,4016875,3,3.97,3,22,Yatim Piatu,Aktif,Tidak Ada,81
+76,Lukman,3399105,4,3.4,5,22,Yatim Piatu,Aktif,Ada,76
+77,Budi,1378892,6,3.37,1,23,Piatu,Aktif,Tidak Ada,77
+78,Joko,1005287,1,3.62,2,24,Piatu,Aktif,Tidak Ada,67
+79,Dedi,2306241,1,3.72,3,21,Piatu,Tidak Aktif,Ada,88
+80,Nina,4154240,5,3.48,7,22,Lengkap,Aktif,Tidak Ada,98
+81,Putu,1656702,5,2.69,7,20,Piatu,Tidak Aktif,Tidak Ada,78
+82,Omar,4602020,7,3.01,6,19,Lengkap,Aktif,Tidak Ada,67
+83,Hendra,4254600,3,3.89,6,22,Yatim,Aktif,Ada,93
+84,Nina,2985296,6,2.84,2,20,Yatim Piatu,Tidak Aktif,Tidak Ada,57
+85,Wawan,3083592,2,3.06,2,20,Piatu,Aktif,Tidak Ada,80
+86,Zaki,4917770,4,3.15,6,20,Yatim Piatu,Tidak Aktif,Ada,83
+87,Hendra,3190222,7,3.16,4,23,Yatim Piatu,Tidak Aktif,Ada,56
+88,Udin,4749783,3,3.42,4,23,Piatu,Aktif,Ada,85
+89,Putu,3719269,5,3.91,3,20,Piatu,Aktif,Ada,67
+90,Maya,4041270,4,2.86,5,24,Yatim,Aktif,Ada,87
+91,Rani,2478050,5,2.68,3,23,Lengkap,Aktif,Tidak Ada,58
+92,Omar,2011293,4,2.8,5,21,Lengkap,Aktif,Tidak Ada,58
+93,Udin,2090654,2,3.83,2,20,Yatim Piatu,Aktif,Tidak Ada,95
+94,Yani,4514160,3,3.47,1,21,Piatu,Tidak Aktif,Ada,57
+95,Zaki,1607812,4,2.93,3,21,Yatim,Tidak Aktif,Tidak Ada,100
+96,Maya,3324797,6,3.72,3,20,Yatim,Aktif,Ada,84
+97,Ika,4682235,7,3.79,5,19,Yatim,Tidak Aktif,Ada,67
+98,Omar,1786667,1,3.77,8,24,Yatim,Tidak Aktif,Tidak Ada,54
+99,Maya,2353649,6,3.88,2,20,Yatim,Aktif,Ada,63
+100,Aisyah,2175885,6,2.88,2,20,Lengkap,Aktif,Ada,77
+101,Zaki,2378164,7,3.63,7,23,Lengkap,Tidak Aktif,Tidak Ada,79
+102,Gita,2712503,1,3.19,8,20,Lengkap,Aktif,Ada,53
+103,Ika,3985418,6,3.76,5,19,Piatu,Tidak Aktif,Ada,88
+104,Yani,4609736,4,3.59,2,23,Yatim Piatu,Aktif,Tidak Ada,69
+105,Aisyah,4866529,4,3.66,8,18,Yatim,Tidak Aktif,Ada,74
+106,Lukman,3443851,4,3.48,6,18,Piatu,Tidak Aktif,Ada,77
+107,Hendra,2384418,1,2.77,8,21,Yatim,Tidak Aktif,Tidak Ada,61
+108,Yani,1386594,6,3.32,4,24,Lengkap,Tidak Aktif,Tidak Ada,51
+109,Kartini,3869760,1,3.98,7,21,Piatu,Aktif,Tidak Ada,92
+110,Sandi,4806503,4,3.91,6,19,Lengkap,Aktif,Tidak Ada,63
+111,Qori,4837247,7,2.56,1,22,Yatim,Tidak Aktif,Ada,71
+112,Hendra,2092501,6,2.75,3,24,Yatim,Tidak Aktif,Ada,80
+113,Citra,2044027,6,2.7,7,18,Yatim Piatu,Aktif,Tidak Ada,72
+114,Citra,1137023,5,3.59,1,21,Yatim,Aktif,Ada,97
+115,Aisyah,2135964,5,3.73,3,18,Lengkap,Tidak Aktif,Ada,69
+116,Eka,1532295,2,2.82,4,19,Yatim,Tidak Aktif,Tidak Ada,87
+117,Joko,4403530,3,3.26,8,19,Yatim Piatu,Tidak Aktif,Tidak Ada,53
+118,Gita,2483624,5,3.76,2,22,Yatim Piatu,Tidak Aktif,Ada,64
+119,Ika,3155748,1,3.6,6,22,Lengkap,Tidak Aktif,Tidak Ada,73
+120,Gita,2956109,5,3.31,5,23,Piatu,Aktif,Tidak Ada,74
+121,Ika,4045179,2,3.39,6,24,Yatim,Tidak Aktif,Tidak Ada,50
+122,Hendra,3448157,6,3.26,4,19,Yatim Piatu,Aktif,Ada,56
+123,Lukman,4925282,2,2.95,1,21,Yatim,Aktif,Tidak Ada,80
+124,Budi,1873172,6,3.35,5,18,Yatim,Aktif,Ada,61
+125,Aisyah,4685540,7,3.53,2,20,Piatu,Tidak Aktif,Ada,91
+126,Putu,1522244,7,3.81,4,22,Yatim Piatu,Aktif,Ada,54
+127,Wawan,2461074,6,3.45,5,20,Yatim,Aktif,Tidak Ada,93
+128,Wawan,1679290,3,3.64,4,21,Yatim Piatu,Aktif,Tidak Ada,99
+129,Yani,3596249,5,2.74,8,22,Lengkap,Aktif,Tidak Ada,91
+130,Eka,3746941,1,3.19,4,20,Lengkap,Tidak Aktif,Tidak Ada,87
+131,Citra,2855619,1,2.51,2,24,Yatim,Tidak Aktif,Tidak Ada,61
+132,Lukman,4293784,4,2.87,7,21,Yatim Piatu,Aktif,Ada,88
+133,Hendra,2062636,6,3.59,3,18,Yatim,Aktif,Ada,67
+134,Vina,2786921,1,3.99,5,24,Yatim Piatu,Tidak Aktif,Ada,51
+135,Citra,4623000,3,2.65,8,21,Yatim Piatu,Tidak Aktif,Tidak Ada,59
+136,Aisyah,2567121,6,3.1,2,23,Piatu,Tidak Aktif,Ada,64
+137,Citra,1829735,3,3.7,4,22,Piatu,Aktif,Ada,79
+138,Eka,4336007,1,2.81,8,19,Piatu,Tidak Aktif,Tidak Ada,93
+139,Omar,3827558,1,3.33,2,18,Yatim,Aktif,Tidak Ada,66
+140,Nina,4830375,4,3.6,7,24,Piatu,Aktif,Ada,53
+141,Citra,2088287,1,3.42,8,24,Piatu,Tidak Aktif,Ada,56
+142,Aisyah,4288754,6,2.78,8,20,Lengkap,Aktif,Tidak Ada,90
+143,Eka,1335484,7,3.03,3,22,Yatim Piatu,Tidak Aktif,Tidak Ada,80
+144,Wawan,3562469,6,3.68,6,19,Yatim Piatu,Aktif,Tidak Ada,100
+145,Nina,4086176,6,3.33,5,21,Piatu,Tidak Aktif,Tidak Ada,88
+146,Gita,3315286,4,2.51,3,19,Yatim Piatu,Aktif,Ada,83
+147,Ika,2151550,4,3.64,1,22,Lengkap,Aktif,Ada,55
+148,Omar,4295374,1,2.55,5,22,Lengkap,Tidak Aktif,Tidak Ada,99
+149,Omar,2450976,2,3.62,3,23,Piatu,Tidak Aktif,Ada,87
+150,Joko,4295896,2,2.8,4,23,Lengkap,Tidak Aktif,Ada,94
+151,Maya,4737744,4,3.94,5,19,Yatim Piatu,Tidak Aktif,Tidak Ada,100
+152,Sandi,1689376,1,3.05,5,21,Yatim,Aktif,Ada,83
+153,Gita,4681262,2,2.99,2,19,Yatim Piatu,Tidak Aktif,Ada,93
+154,Qori,1438774,1,2.72,4,22,Yatim,Tidak Aktif,Ada,64
+155,Tari,3609089,1,2.96,1,22,Piatu,Aktif,Tidak Ada,63
+156,Dedi,3508749,1,3.81,6,20,Yatim,Tidak Aktif,Tidak Ada,55
+157,Eka,1914228,5,3.99,8,23,Lengkap,Tidak Aktif,Ada,99
+158,Wawan,1953959,6,3.05,7,20,Yatim Piatu,Aktif,Tidak Ada,86
+159,Gita,3189415,1,3.17,3,18,Yatim,Tidak Aktif,Tidak Ada,99
+160,Maya,1921522,5,3.58,2,22,Yatim Piatu,Tidak Aktif,Tidak Ada,81
+161,Omar,4681318,4,3.83,3,20,Piatu,Tidak Aktif,Ada,52
+162,Kartini,3951090,2,3.39,1,19,Piatu,Tidak Aktif,Ada,52
+163,Dedi,4711173,6,3.09,8,23,Lengkap,Tidak Aktif,Tidak Ada,71
+164,Maya,2627781,7,3.12,1,23,Piatu,Tidak Aktif,Ada,71
+165,Gita,4369538,2,3.54,5,21,Yatim,Aktif,Ada,59
+166,Sandi,4242374,6,2.5,7,19,Piatu,Tidak Aktif,Ada,100
+167,Vina,1345266,7,3.43,1,21,Lengkap,Aktif,Ada,52
+168,Budi,4956679,2,3.03,3,20,Yatim Piatu,Aktif,Ada,61
+169,Joko,2538601,6,3.69,4,24,Yatim Piatu,Aktif,Tidak Ada,78
+170,Maya,3577855,2,2.64,4,18,Piatu,Aktif,Ada,97
+171,Zaki,4071475,2,3.38,5,19,Yatim,Tidak Aktif,Ada,66
+172,Udin,1343054,7,3.22,6,19,Lengkap,Tidak Aktif,Ada,56
+173,Fajar,4004014,2,3.46,3,19,Yatim,Tidak Aktif,Tidak Ada,62
+174,Lukman,2316128,2,2.6,3,21,Lengkap,Aktif,Tidak Ada,51
+175,Lukman,2107955,7,3.37,1,20,Piatu,Tidak Aktif,Tidak Ada,53
+176,Tari,2073629,4,3.34,7,19,Lengkap,Tidak Aktif,Ada,59
+177,Kartini,2451238,1,3.34,3,24,Lengkap,Tidak Aktif,Tidak Ada,88
+178,Wawan,4802010,3,3.41,2,19,Piatu,Aktif,Tidak Ada,73
+179,Zaki,3195875,5,3.51,6,23,Yatim,Aktif,Tidak Ada,66
+180,Gita,3672796,3,3.71,1,18,Piatu,Tidak Aktif,Tidak Ada,55
+181,Aisyah,2321509,3,2.9,2,23,Lengkap,Aktif,Ada,68
+182,Aisyah,2932728,6,3.74,5,23,Piatu,Aktif,Tidak Ada,54
+183,Zaki,1853088,1,3.25,4,18,Lengkap,Tidak Aktif,Tidak Ada,81
+184,Zaki,4976188,6,2.62,5,24,Piatu,Aktif,Ada,59
+185,Tari,2899492,1,2.59,4,20,Yatim Piatu,Aktif,Ada,58
+186,Maya,2080730,7,3.0,5,23,Yatim Piatu,Tidak Aktif,Tidak Ada,76
+187,Ika,4359670,7,3.68,3,20,Piatu,Aktif,Ada,62
+188,Citra,3361632,1,3.56,2,23,Yatim,Aktif,Tidak Ada,68
+189,Gita,2414397,2,3.68,4,22,Lengkap,Aktif,Ada,70
+190,Fajar,2902787,4,3.28,1,18,Yatim Piatu,Aktif,Ada,73
+191,Hendra,3378325,2,3.16,2,23,Yatim,Aktif,Tidak Ada,87
+192,Ika,1845633,4,2.72,1,22,Lengkap,Aktif,Ada,53
+193,Eka,4177993,6,2.99,2,21,Yatim Piatu,Aktif,Tidak Ada,73
+194,Aisyah,4510788,4,3.15,2,22,Yatim Piatu,Aktif,Ada,84
+195,Sandi,4389050,6,2.63,5,19,Piatu,Tidak Aktif,Tidak Ada,52
+196,Joko,4131209,7,2.83,4,23,Lengkap,Tidak Aktif,Ada,53
+197,Lukman,2223520,3,3.4,4,22,Yatim,Tidak Aktif,Ada,86
+198,Yani,2619061,7,3.6,7,20,Yatim,Tidak Aktif,Ada,89
+199,Omar,2496972,7,4.0,2,21,Yatim,Aktif,Ada,97
+200,Vina,2203358,3,3.9,3,24,Lengkap,Tidak Aktif,Ada,84
+201,Yani,4830574,4,3.46,3,23,Yatim,Tidak Aktif,Tidak Ada,80
+202,Ika,4217635,4,3.13,1,19,Yatim,Aktif,Ada,93
+203,Tari,3300119,6,3.45,1,24,Yatim,Aktif,Tidak Ada,74
+204,Qori,2899443,2,3.68,5,22,Piatu,Aktif,Tidak Ada,89
+205,Qori,4448503,6,2.68,2,24,Piatu,Aktif,Tidak Ada,62
+206,Tari,2439758,2,3.11,1,24,Lengkap,Aktif,Ada,53
+207,Lukman,2805468,7,3.76,1,21,Lengkap,Tidak Aktif,Tidak Ada,95
+208,Gita,4427975,3,3.08,6,24,Yatim,Aktif,Ada,63
+209,Budi,3161924,7,3.36,2,24,Piatu,Tidak Aktif,Tidak Ada,62
+210,Citra,1126108,1,3.38,8,23,Yatim Piatu,Tidak Aktif,Tidak Ada,76
+211,Qori,4160110,4,2.78,5,21,Yatim Piatu,Aktif,Tidak Ada,55
+212,Eka,4230019,2,3.04,1,19,Yatim,Tidak Aktif,Tidak Ada,66
+213,Qori,3460491,6,3.0,5,22,Yatim,Tidak Aktif,Tidak Ada,85
+214,Yani,2707692,3,2.54,4,21,Piatu,Aktif,Ada,89
+215,Qori,2331329,2,2.54,5,21,Piatu,Tidak Aktif,Tidak Ada,98
+216,Qori,3080154,6,3.75,8,18,Piatu,Tidak Aktif,Tidak Ada,84
+217,Budi,3244702,4,2.91,3,21,Lengkap,Tidak Aktif,Ada,66
+218,Budi,4377778,7,3.28,8,18,Lengkap,Aktif,Ada,90
+219,Vina,3530034,4,2.95,3,22,Yatim,Aktif,Ada,51
+220,Wawan,1337827,5,3.91,5,24,Lengkap,Aktif,Tidak Ada,62
+221,Eka,4144995,1,2.89,3,23,Piatu,Tidak Aktif,Tidak Ada,51
+222,Aisyah,2540889,5,3.14,4,23,Piatu,Aktif,Tidak Ada,77
+223,Aisyah,4532586,3,3.81,2,22,Lengkap,Tidak Aktif,Tidak Ada,92
+224,Sandi,2703194,2,3.76,3,22,Yatim Piatu,Aktif,Tidak Ada,75
+225,Budi,3692755,3,2.78,3,20,Yatim,Tidak Aktif,Tidak Ada,71
+226,Udin,1388349,7,3.7,5,24,Yatim Piatu,Aktif,Ada,96
+227,Lukman,2062729,6,3.19,4,22,Yatim,Aktif,Ada,92
+228,Fajar,4124071,4,3.22,7,21,Yatim Piatu,Tidak Aktif,Tidak Ada,52
+229,Wawan,2649189,5,2.7,7,23,Lengkap,Aktif,Tidak Ada,84
+230,Dedi,4386501,5,2.62,7,19,Yatim,Tidak Aktif,Tidak Ada,61
+231,Wawan,2979079,7,3.59,7,23,Yatim,Aktif,Tidak Ada,73
+232,Kartini,4201046,5,3.24,2,18,Yatim,Aktif,Tidak Ada,54
+233,Yani,1394030,7,3.16,8,23,Piatu,Tidak Aktif,Ada,69
+234,Qori,4522905,3,3.59,5,20,Piatu,Tidak Aktif,Ada,88
+235,Fajar,1076077,4,3.65,5,24,Yatim Piatu,Tidak Aktif,Tidak Ada,88
+236,Yani,3974058,2,2.74,6,22,Lengkap,Aktif,Ada,62
+237,Eka,1133515,6,3.42,4,24,Piatu,Tidak Aktif,Tidak Ada,90
+238,Tari,4090649,2,2.7,7,22,Yatim,Aktif,Tidak Ada,94
+239,Budi,2255564,3,3.63,2,23,Piatu,Tidak Aktif,Tidak Ada,61
+240,Fajar,2908327,6,3.49,4,19,Lengkap,Tidak Aktif,Ada,62
+241,Vina,1125885,5,3.93,7,19,Piatu,Tidak Aktif,Ada,59
+242,Kartini,1896209,1,2.6,2,20,Yatim,Tidak Aktif,Tidak Ada,82
+243,Putu,1541656,3,2.59,4,18,Yatim Piatu,Tidak Aktif,Ada,89
+244,Putu,1670688,3,2.92,5,23,Yatim,Tidak Aktif,Ada,65
+245,Aisyah,3285166,4,2.89,5,22,Lengkap,Aktif,Tidak Ada,94
+246,Ika,3188903,2,2.87,8,23,Yatim Piatu,Tidak Aktif,Ada,84
+247,Fajar,1230203,3,3.86,1,20,Piatu,Aktif,Ada,52
+248,Putu,1813738,3,2.87,8,21,Piatu,Tidak Aktif,Tidak Ada,54
+249,Citra,3051531,5,2.91,3,21,Piatu,Tidak Aktif,Tidak Ada,75
+250,Tari,3792427,5,3.64,8,20,Yatim Piatu,Tidak Aktif,Ada,60
+251,Dedi,3920803,6,3.17,7,22,Yatim,Aktif,Tidak Ada,56
+252,Sandi,4357679,7,3.67,6,24,Yatim Piatu,Aktif,Ada,59
+253,Citra,2553731,7,2.6,4,20,Yatim Piatu,Tidak Aktif,Tidak Ada,91
+254,Sandi,1195716,1,3.23,6,22,Lengkap,Aktif,Tidak Ada,83
+255,Tari,3681719,7,2.55,1,19,Yatim Piatu,Tidak Aktif,Tidak Ada,52
+256,Gita,3412324,4,2.59,3,20,Piatu,Tidak Aktif,Tidak Ada,57
+257,Tari,1890695,1,3.86,4,22,Yatim,Aktif,Ada,80
+258,Ika,1000126,6,2.71,2,20,Yatim,Aktif,Tidak Ada,60
+259,Aisyah,1838761,5,3.3,7,20,Yatim,Aktif,Tidak Ada,94
+260,Hendra,4173360,7,3.12,3,24,Piatu,Aktif,Tidak Ada,56
+261,Gita,1500315,2,3.02,5,24,Piatu,Tidak Aktif,Ada,94
+262,Rani,2769246,5,3.85,1,22,Piatu,Aktif,Ada,51
+263,Hendra,2158521,4,2.53,3,22,Piatu,Aktif,Tidak Ada,55
+264,Aisyah,3414472,5,3.5,7,18,Piatu,Tidak Aktif,Tidak Ada,90
+265,Kartini,2299445,4,3.95,8,20,Yatim Piatu,Aktif,Tidak Ada,81
+266,Zaki,1741426,4,3.34,3,21,Piatu,Aktif,Tidak Ada,69
+267,Zaki,1498716,4,3.91,8,20,Piatu,Aktif,Tidak Ada,83
+268,Rani,4141069,6,2.58,7,20,Piatu,Aktif,Tidak Ada,99
+269,Wawan,4321127,4,3.13,5,22,Piatu,Tidak Aktif,Ada,65
+270,Joko,3559272,4,2.89,4,20,Yatim,Tidak Aktif,Tidak Ada,74
+271,Citra,4280597,2,3.6,2,23,Piatu,Aktif,Tidak Ada,61
+272,Gita,3276106,1,3.97,5,20,Yatim Piatu,Aktif,Tidak Ada,56
+273,Putu,3766230,3,2.88,8,23,Yatim Piatu,Tidak Aktif,Tidak Ada,88
+274,Putu,4180288,1,3.48,8,24,Yatim Piatu,Aktif,Tidak Ada,66
+275,Zaki,3381412,4,2.8,2,21,Lengkap,Aktif,Tidak Ada,94
+276,Tari,3002324,2,3.35,4,22,Yatim,Aktif,Ada,60
+277,Qori,3067801,5,3.2,3,20,Piatu,Aktif,Ada,55
+278,Budi,1132717,2,3.96,2,23,Lengkap,Aktif,Ada,72
+279,Aisyah,4324323,4,3.41,1,23,Piatu,Aktif,Ada,76
+280,Putu,3745525,2,3.02,1,24,Lengkap,Aktif,Ada,95
+281,Lukman,3477014,7,2.67,7,23,Lengkap,Aktif,Ada,55
+282,Eka,4951416,2,2.73,5,19,Yatim Piatu,Aktif,Tidak Ada,87
+283,Eka,1494592,4,2.84,8,18,Yatim Piatu,Tidak Aktif,Tidak Ada,51
+284,Wawan,4245886,6,2.88,4,21,Lengkap,Tidak Aktif,Tidak Ada,71
+285,Ika,4854261,7,3.78,7,24,Yatim Piatu,Tidak Aktif,Tidak Ada,69
+286,Ika,2217078,2,3.34,5,24,Lengkap,Aktif,Tidak Ada,74
+287,Citra,4578226,3,3.29,5,20,Yatim,Aktif,Tidak Ada,64
+288,Sandi,2954727,3,2.67,7,19,Yatim Piatu,Tidak Aktif,Ada,98
+289,Putu,3029454,2,3.79,6,20,Yatim Piatu,Aktif,Tidak Ada,78
+290,Putu,3427540,6,3.58,5,20,Yatim Piatu,Tidak Aktif,Ada,57
+291,Citra,2715630,5,2.6,6,22,Yatim,Aktif,Ada,86
+292,Tari,1318408,4,3.56,1,22,Lengkap,Tidak Aktif,Tidak Ada,98
+293,Yani,1468276,3,3.32,1,22,Piatu,Tidak Aktif,Tidak Ada,82
+294,Vina,2014920,5,2.62,5,19,Yatim Piatu,Tidak Aktif,Tidak Ada,71
+295,Yani,3154697,2,3.19,1,20,Lengkap,Aktif,Tidak Ada,99
+296,Aisyah,1511411,5,3.23,4,18,Yatim,Tidak Aktif,Tidak Ada,96
+297,Yani,3922808,7,2.75,6,21,Piatu,Aktif,Tidak Ada,54
+298,Tari,4117172,1,3.92,6,22,Yatim Piatu,Aktif,Tidak Ada,88
+299,Kartini,1884377,3,3.77,5,22,Yatim,Aktif,Ada,67
+300,Qori,3110376,2,3.5,1,24,Yatim,Aktif,Tidak Ada,87
+301,Hendra,1040738,4,3.19,2,20,Piatu,Aktif,Tidak Ada,86
+302,Dedi,4039806,6,3.12,8,20,Lengkap,Aktif,Ada,79
+303,Fajar,2898739,7,3.48,7,19,Yatim Piatu,Aktif,Tidak Ada,100
+304,Hendra,2229336,2,3.32,7,19,Yatim Piatu,Tidak Aktif,Tidak Ada,80
+305,Tari,2017433,4,2.59,6,22,Lengkap,Tidak Aktif,Ada,59
+306,Citra,4909706,6,3.27,5,20,Lengkap,Tidak Aktif,Tidak Ada,64
+307,Putu,1466725,6,3.71,5,18,Lengkap,Aktif,Tidak Ada,91
+308,Zaki,3761089,2,3.19,4,21,Piatu,Aktif,Tidak Ada,97
+309,Citra,4678086,7,2.58,3,20,Piatu,Aktif,Tidak Ada,93
+310,Zaki,2174737,5,3.68,8,24,Yatim Piatu,Aktif,Tidak Ada,67
+311,Rani,2581530,5,2.8,3,20,Piatu,Tidak Aktif,Tidak Ada,72
+312,Nina,1844193,6,2.89,6,23,Yatim,Aktif,Ada,82
+313,Rani,3087258,5,2.75,7,19,Yatim Piatu,Tidak Aktif,Tidak Ada,65
+314,Budi,1298512,1,3.0,4,24,Piatu,Aktif,Tidak Ada,87
+315,Vina,1662143,6,3.64,4,21,Lengkap,Tidak Aktif,Ada,84
+316,Citra,3663354,6,3.28,4,22,Yatim,Aktif,Ada,83
+317,Putu,2250155,4,2.81,6,24,Lengkap,Tidak Aktif,Tidak Ada,77
+318,Ika,3749178,5,3.82,3,20,Yatim Piatu,Aktif,Ada,51
+319,Dedi,1996530,7,3.82,7,22,Lengkap,Tidak Aktif,Tidak Ada,79
+320,Aisyah,1771253,6,3.81,4,20,Piatu,Aktif,Tidak Ada,62
+321,Dedi,3601623,7,2.86,7,22,Piatu,Tidak Aktif,Ada,90
+322,Aisyah,3076696,1,3.18,1,21,Yatim Piatu,Tidak Aktif,Tidak Ada,65
+323,Nina,2378246,4,3.98,5,19,Lengkap,Aktif,Tidak Ada,54
+324,Udin,3036915,2,3.66,5,21,Yatim Piatu,Tidak Aktif,Ada,77
+325,Putu,3903540,7,2.54,7,23,Lengkap,Aktif,Ada,88
+326,Tari,4364695,6,2.6,2,18,Yatim,Aktif,Ada,94
+327,Yani,4978400,1,3.2,2,19,Piatu,Aktif,Ada,69
+328,Hendra,1383152,3,3.86,6,21,Yatim Piatu,Tidak Aktif,Tidak Ada,73
+329,Gita,1954652,1,3.31,6,23,Yatim,Tidak Aktif,Ada,76
+330,Citra,3191422,1,3.25,5,18,Yatim,Aktif,Ada,79
+331,Qori,2045482,4,2.66,1,23,Yatim Piatu,Aktif,Ada,94
+332,Aisyah,2839765,2,3.49,8,20,Yatim Piatu,Tidak Aktif,Ada,76
+333,Putu,2591961,3,3.73,3,20,Yatim,Tidak Aktif,Ada,75
+334,Lukman,2714331,5,3.07,3,22,Lengkap,Tidak Aktif,Tidak Ada,56
+335,Sandi,4293041,5,3.66,6,19,Yatim,Aktif,Ada,91
+336,Vina,2938900,7,3.95,1,20,Yatim Piatu,Aktif,Tidak Ada,96
+337,Wawan,3255920,1,2.81,6,24,Yatim,Aktif,Ada,87
+338,Vina,2295302,4,3.28,8,23,Lengkap,Aktif,Ada,54
+339,Nina,1570451,4,2.93,3,19,Piatu,Aktif,Ada,72
+340,Fajar,1019816,5,3.69,7,24,Piatu,Tidak Aktif,Ada,77
+341,Fajar,1967344,7,3.37,6,20,Yatim,Aktif,Ada,83
+342,Maya,3855059,7,3.45,4,22,Lengkap,Tidak Aktif,Ada,64
+343,Sandi,3412149,7,3.7,7,21,Piatu,Tidak Aktif,Ada,81
+344,Vina,2204565,3,3.09,8,22,Yatim,Aktif,Ada,75
+345,Hendra,2669595,2,3.87,8,24,Yatim,Tidak Aktif,Tidak Ada,97
+346,Budi,4822654,3,3.3,6,18,Lengkap,Aktif,Ada,80
+347,Udin,4352252,6,2.74,5,20,Yatim Piatu,Tidak Aktif,Tidak Ada,68
+348,Aisyah,4732839,6,3.54,6,24,Yatim,Aktif,Ada,58
+349,Omar,2038896,2,3.69,5,18,Yatim Piatu,Aktif,Tidak Ada,78
+350,Aisyah,4297606,5,2.98,8,18,Yatim Piatu,Tidak Aktif,Ada,100
+351,Eka,3828032,2,3.79,1,23,Piatu,Aktif,Ada,88
+352,Putu,2574623,4,3.86,8,19,Yatim Piatu,Tidak Aktif,Ada,53
+353,Sandi,3878604,6,2.92,3,23,Lengkap,Aktif,Tidak Ada,52
+354,Dedi,4580893,1,3.98,7,20,Piatu,Aktif,Tidak Ada,78
+355,Citra,1133554,1,2.71,7,18,Piatu,Aktif,Tidak Ada,60
+356,Qori,4956602,5,2.8,2,24,Piatu,Tidak Aktif,Tidak Ada,82
+357,Qori,3548434,4,2.78,2,21,Yatim,Tidak Aktif,Ada,87
+358,Lukman,4239229,3,3.84,8,18,Yatim,Aktif,Ada,60
+359,Nina,1264223,4,3.48,3,24,Yatim Piatu,Tidak Aktif,Ada,76
+360,Udin,2968797,1,2.73,2,21,Piatu,Aktif,Tidak Ada,82
+361,Fajar,2108252,1,3.16,7,23,Piatu,Tidak Aktif,Ada,70
+362,Citra,2790380,6,3.42,6,23,Lengkap,Tidak Aktif,Tidak Ada,88
+363,Ika,4319260,4,2.63,1,19,Yatim Piatu,Aktif,Tidak Ada,80
+364,Eka,2663261,4,3.82,1,24,Lengkap,Aktif,Tidak Ada,87
+365,Yani,3694287,1,3.71,3,18,Yatim Piatu,Aktif,Tidak Ada,95
+366,Qori,2666471,3,3.26,8,22,Yatim Piatu,Aktif,Tidak Ada,51
+367,Nina,3317330,5,3.95,2,23,Yatim,Aktif,Ada,76
+368,Udin,2198097,7,3.13,6,23,Yatim,Tidak Aktif,Tidak Ada,85
+369,Citra,1426752,5,3.98,1,19,Lengkap,Tidak Aktif,Tidak Ada,60
+370,Aisyah,1588365,4,3.5,1,21,Yatim Piatu,Aktif,Ada,96
+371,Tari,1824690,5,3.45,4,19,Piatu,Aktif,Tidak Ada,67
+372,Udin,1703662,1,2.75,8,18,Yatim,Aktif,Tidak Ada,50
+373,Wawan,2305585,1,3.82,4,24,Piatu,Tidak Aktif,Ada,84
+374,Aisyah,2186293,4,3.14,7,20,Lengkap,Aktif,Ada,84
+375,Citra,2430491,4,2.74,1,20,Yatim,Aktif,Ada,80
+376,Rani,3659440,7,2.52,3,24,Yatim,Tidak Aktif,Tidak Ada,77
+377,Zaki,2599601,7,3.34,5,21,Yatim Piatu,Tidak Aktif,Ada,88
+378,Joko,4943645,6,3.29,5,23,Lengkap,Tidak Aktif,Ada,50
+379,Vina,1300709,4,3.58,6,21,Yatim Piatu,Tidak Aktif,Ada,74
+380,Citra,4040178,3,3.84,1,23,Yatim,Aktif,Tidak Ada,92
+381,Hendra,2900163,5,2.62,1,23,Lengkap,Tidak Aktif,Ada,87
+382,Nina,2234816,4,3.6,7,20,Yatim,Tidak Aktif,Tidak Ada,69
+383,Yani,2625351,2,2.78,1,21,Lengkap,Aktif,Tidak Ada,52
+384,Rani,2964956,6,3.79,3,19,Yatim,Aktif,Ada,100
+385,Omar,2323062,2,3.73,4,23,Piatu,Aktif,Tidak Ada,51
+386,Vina,4448678,1,3.31,1,22,Piatu,Tidak Aktif,Tidak Ada,67
+387,Wawan,2359490,7,3.57,1,22,Yatim Piatu,Aktif,Ada,93
+388,Budi,2127199,5,2.97,7,19,Piatu,Tidak Aktif,Tidak Ada,59
+389,Joko,4511049,4,3.21,8,22,Yatim,Tidak Aktif,Ada,54
+390,Budi,2017289,2,3.73,2,18,Yatim,Tidak Aktif,Tidak Ada,58
+391,Qori,2910637,5,3.19,8,23,Piatu,Aktif,Tidak Ada,51
+392,Hendra,1907425,1,3.04,7,19,Yatim Piatu,Tidak Aktif,Ada,83
+393,Aisyah,3280827,7,3.24,8,21,Piatu,Aktif,Ada,87
+394,Ika,2785910,3,3.74,7,23,Lengkap,Aktif,Tidak Ada,80
+395,Kartini,4775963,6,3.0,3,19,Lengkap,Aktif,Tidak Ada,59
+396,Vina,4958559,5,2.76,6,20,Lengkap,Tidak Aktif,Ada,99
+397,Putu,1652465,5,3.57,1,21,Piatu,Tidak Aktif,Tidak Ada,61
+398,Gita,4362182,3,3.74,7,20,Piatu,Tidak Aktif,Tidak Ada,85
+399,Joko,4095900,5,2.65,7,23,Piatu,Aktif,Tidak Ada,70
+400,Wawan,4255303,1,2.86,2,21,Lengkap,Tidak Aktif,Tidak Ada,98
+401,Citra,4130176,1,2.71,7,22,Yatim Piatu,Tidak Aktif,Ada,96
+402,Rani,2256182,3,3.02,5,19,Yatim,Tidak Aktif,Ada,55
+403,Zaki,3602967,6,3.18,6,23,Piatu,Tidak Aktif,Ada,97
+404,Yani,4438550,4,3.62,1,18,Yatim Piatu,Tidak Aktif,Ada,98
+405,Maya,1076218,2,3.48,1,21,Yatim,Aktif,Ada,52
+406,Gita,3684670,4,3.43,2,21,Yatim,Aktif,Ada,59
+407,Zaki,1770044,5,3.03,3,24,Yatim,Aktif,Tidak Ada,54
+408,Dedi,2384775,2,3.76,1,23,Yatim Piatu,Aktif,Ada,95
+409,Maya,3546741,3,3.21,5,23,Yatim Piatu,Tidak Aktif,Tidak Ada,75
+410,Tari,2735416,3,3.97,1,20,Lengkap,Aktif,Tidak Ada,70
+411,Aisyah,1478446,6,3.45,5,24,Yatim Piatu,Tidak Aktif,Tidak Ada,94
+412,Hendra,1462052,2,2.69,6,22,Yatim Piatu,Aktif,Ada,75
+413,Nina,4480130,1,3.51,6,20,Yatim Piatu,Aktif,Tidak Ada,87
+414,Putu,4185714,2,2.99,4,24,Yatim,Aktif,Ada,93
+415,Nina,2728096,5,3.53,4,20,Piatu,Tidak Aktif,Tidak Ada,75
+416,Lukman,1347739,1,2.6,5,22,Lengkap,Tidak Aktif,Tidak Ada,57
+417,Sandi,4771374,7,2.76,3,24,Piatu,Aktif,Ada,54
+418,Wawan,1472327,7,3.78,1,24,Piatu,Tidak Aktif,Tidak Ada,64
+419,Omar,4472801,7,2.84,7,18,Yatim Piatu,Aktif,Tidak Ada,65
+420,Budi,3694946,3,3.76,1,20,Lengkap,Aktif,Tidak Ada,50
+421,Budi,1034911,2,2.92,4,20,Piatu,Aktif,Tidak Ada,65
+422,Wawan,2922135,7,3.46,8,21,Piatu,Tidak Aktif,Ada,86
+423,Vina,3522189,4,3.54,7,22,Lengkap,Aktif,Tidak Ada,52
+424,Sandi,3827551,6,3.27,5,19,Yatim Piatu,Aktif,Tidak Ada,96
+425,Zaki,1978039,4,2.96,7,18,Piatu,Aktif,Ada,80
+426,Vina,1899885,7,2.82,8,24,Yatim,Tidak Aktif,Tidak Ada,62
+427,Vina,1608746,6,2.55,1,24,Piatu,Aktif,Tidak Ada,65
+428,Qori,4157903,5,2.96,1,24,Yatim,Tidak Aktif,Tidak Ada,92
+429,Tari,4002819,4,3.48,3,18,Yatim Piatu,Aktif,Tidak Ada,70
+430,Joko,1316915,2,3.91,2,24,Piatu,Tidak Aktif,Ada,51
+431,Fajar,1499876,2,3.81,7,24,Lengkap,Aktif,Tidak Ada,76
+432,Omar,2962165,4,3.65,4,22,Lengkap,Aktif,Ada,87
+433,Vina,4791316,7,3.68,8,23,Piatu,Tidak Aktif,Tidak Ada,75
+434,Kartini,1611213,2,3.5,8,23,Yatim Piatu,Tidak Aktif,Tidak Ada,87
+435,Eka,1768734,5,2.89,8,21,Yatim Piatu,Aktif,Tidak Ada,95
+436,Aisyah,4212086,1,3.86,4,21,Lengkap,Tidak Aktif,Ada,74
+437,Hendra,4556271,7,3.51,2,24,Piatu,Aktif,Tidak Ada,60
+438,Udin,1047057,5,3.34,1,22,Yatim Piatu,Aktif,Tidak Ada,57
+439,Lukman,2316870,6,2.67,3,24,Lengkap,Aktif,Ada,57
+440,Lukman,2839433,5,3.17,3,21,Yatim,Tidak Aktif,Ada,82
+441,Eka,3351878,7,3.19,4,18,Piatu,Aktif,Ada,56
+442,Gita,3375328,6,3.8,3,18,Yatim,Tidak Aktif,Ada,87
+443,Dedi,4672214,7,3.32,8,19,Yatim,Aktif,Tidak Ada,70
+444,Fajar,3026580,2,3.07,6,23,Yatim Piatu,Tidak Aktif,Tidak Ada,57
+445,Maya,1708754,1,3.97,2,22,Yatim Piatu,Tidak Aktif,Tidak Ada,100
+446,Tari,4034735,7,2.67,1,20,Yatim Piatu,Aktif,Tidak Ada,70
+447,Omar,4313020,7,3.13,6,23,Piatu,Tidak Aktif,Ada,69
+448,Citra,3007954,2,2.56,2,20,Yatim,Aktif,Tidak Ada,57
+449,Wawan,1144931,3,3.61,5,19,Piatu,Aktif,Tidak Ada,95
+450,Hendra,2492252,2,3.88,7,19,Yatim Piatu,Aktif,Tidak Ada,80
+451,Tari,3259643,6,2.92,4,24,Yatim,Aktif,Tidak Ada,99
+452,Putu,4526737,2,3.79,8,21,Piatu,Aktif,Ada,78
+453,Maya,1401921,2,2.94,3,19,Piatu,Tidak Aktif,Tidak Ada,97
+454,Rani,3008960,1,3.87,5,19,Lengkap,Aktif,Tidak Ada,58
+455,Joko,1260910,2,3.63,3,20,Piatu,Tidak Aktif,Tidak Ada,64
+456,Sandi,4168964,7,3.71,6,21,Yatim Piatu,Tidak Aktif,Ada,79
+457,Qori,1087955,1,2.53,1,19,Piatu,Aktif,Ada,75
+458,Yani,4886602,4,3.94,1,23,Yatim,Tidak Aktif,Tidak Ada,59
+459,Sandi,3724585,3,3.59,1,19,Piatu,Aktif,Tidak Ada,78
+460,Wawan,4816446,1,2.96,8,21,Lengkap,Tidak Aktif,Tidak Ada,65
+461,Eka,4376513,6,3.74,3,24,Yatim,Tidak Aktif,Ada,85
+462,Udin,4240642,4,2.92,5,22,Yatim,Tidak Aktif,Tidak Ada,69
+463,Wawan,2937878,1,3.81,1,21,Lengkap,Aktif,Tidak Ada,94
+464,Ika,1207990,1,2.67,5,20,Yatim Piatu,Tidak Aktif,Tidak Ada,86
+465,Lukman,3085259,3,3.56,3,22,Yatim,Aktif,Ada,71
+466,Udin,3475539,7,3.31,8,23,Yatim Piatu,Tidak Aktif,Tidak Ada,56
+467,Aisyah,1538884,6,2.64,6,18,Yatim,Tidak Aktif,Tidak Ada,72
+468,Aisyah,2999652,5,2.86,8,21,Yatim,Tidak Aktif,Ada,90
+469,Omar,1996261,5,2.52,5,24,Yatim Piatu,Tidak Aktif,Ada,89
+470,Budi,2705215,1,3.2,8,20,Yatim,Aktif,Tidak Ada,78
+471,Vina,2242845,2,2.95,8,23,Yatim Piatu,Aktif,Ada,65
+472,Putu,2946504,6,3.4,6,22,Lengkap,Tidak Aktif,Tidak Ada,87
+473,Zaki,3489569,4,2.95,3,23,Yatim Piatu,Tidak Aktif,Ada,77
+474,Hendra,4077172,2,2.95,3,21,Lengkap,Aktif,Ada,97
+475,Maya,3235307,2,3.61,4,19,Yatim,Aktif,Tidak Ada,87
+476,Udin,4266402,6,2.57,8,24,Yatim Piatu,Aktif,Tidak Ada,80
+477,Aisyah,1906739,7,3.85,3,21,Yatim,Aktif,Tidak Ada,63
+478,Putu,4927545,1,3.78,3,18,Yatim Piatu,Tidak Aktif,Ada,82
+479,Gita,4910485,1,3.5,2,21,Lengkap,Tidak Aktif,Tidak Ada,58
+480,Eka,2983851,1,3.39,1,22,Lengkap,Aktif,Tidak Ada,76
+481,Vina,2996055,1,3.84,4,22,Yatim Piatu,Aktif,Tidak Ada,73
+482,Wawan,2305289,5,2.78,7,21,Lengkap,Aktif,Tidak Ada,62
+483,Citra,2490077,1,2.62,4,22,Yatim,Aktif,Tidak Ada,75
+484,Lukman,1543351,5,2.86,4,19,Yatim,Aktif,Ada,78
+485,Putu,1067642,5,3.69,7,23,Piatu,Aktif,Tidak Ada,100
+486,Sandi,1090093,7,2.55,2,21,Lengkap,Tidak Aktif,Tidak Ada,98
+487,Eka,2556182,1,3.37,8,24,Yatim,Tidak Aktif,Ada,92
+488,Vina,1217215,3,3.99,6,19,Yatim Piatu,Tidak Aktif,Tidak Ada,77
+489,Zaki,3003679,4,3.78,3,23,Lengkap,Aktif,Tidak Ada,77
+490,Nina,2755856,2,3.28,1,24,Yatim,Aktif,Tidak Ada,57
+491,Eka,2732465,5,2.6,5,24,Lengkap,Aktif,Tidak Ada,72
+492,Omar,1035954,6,3.75,8,24,Yatim Piatu,Tidak Aktif,Tidak Ada,78
+493,Qori,4173584,6,3.4,7,23,Yatim,Aktif,Ada,54
+494,Nina,1526861,4,2.67,6,19,Piatu,Aktif,Ada,91
+495,Tari,3044424,6,2.64,8,24,Piatu,Tidak Aktif,Ada,56
+496,Eka,3656807,3,3.86,7,24,Lengkap,Aktif,Tidak Ada,91
+497,Lukman,3592705,6,3.5,3,20,Yatim Piatu,Tidak Aktif,Ada,85
+498,Putu,3859244,2,3.74,2,21,Yatim,Tidak Aktif,Tidak Ada,90
+499,Putu,1886040,2,3.82,8,23,Yatim Piatu,Aktif,Tidak Ada,76
+500,Udin,1322918,5,3.36,7,23,Yatim,Tidak Aktif,Tidak Ada,95
+501,Gita,2072328,1,3.28,3,22,Lengkap,Aktif,Ada,51
+502,Dedi,3938613,7,3.15,3,23,Yatim,Tidak Aktif,Ada,74
+503,Aisyah,3245909,3,2.98,2,19,Yatim Piatu,Aktif,Ada,58
+504,Eka,4459565,5,3.15,4,23,Yatim Piatu,Tidak Aktif,Tidak Ada,76
+505,Wawan,1116739,3,3.66,8,20,Lengkap,Aktif,Ada,50
+506,Joko,2890969,1,3.4,8,21,Yatim Piatu,Tidak Aktif,Tidak Ada,72
+507,Vina,2286585,6,3.84,4,21,Yatim,Tidak Aktif,Ada,59
+508,Eka,1780316,6,3.17,1,23,Lengkap,Tidak Aktif,Ada,91
+509,Dedi,4353708,7,3.41,1,24,Yatim,Aktif,Tidak Ada,74
+510,Budi,4402337,1,3.45,4,18,Yatim Piatu,Aktif,Tidak Ada,52
+511,Tari,4534550,5,3.39,6,18,Lengkap,Tidak Aktif,Ada,55
+512,Joko,3433828,7,3.55,5,24,Yatim,Aktif,Ada,55
+513,Sandi,4489866,1,2.86,3,24,Yatim Piatu,Tidak Aktif,Ada,51
+514,Aisyah,2366853,4,3.27,5,24,Yatim Piatu,Aktif,Tidak Ada,67
+515,Yani,2014929,2,2.66,3,19,Piatu,Tidak Aktif,Tidak Ada,72
+516,Eka,2566847,7,3.08,4,18,Yatim Piatu,Aktif,Ada,51
+517,Maya,3420564,7,3.23,1,24,Yatim,Tidak Aktif,Ada,61
+518,Dedi,3582569,5,3.48,6,19,Lengkap,Tidak Aktif,Tidak Ada,71
+519,Putu,2480035,3,3.93,1,22,Piatu,Tidak Aktif,Ada,86
+520,Yani,1188456,4,3.4,5,19,Yatim Piatu,Tidak Aktif,Tidak Ada,69
+521,Putu,3653093,5,3.62,1,18,Yatim Piatu,Aktif,Tidak Ada,88
+522,Wawan,4303457,1,3.26,4,23,Yatim Piatu,Tidak Aktif,Tidak Ada,73
+523,Budi,3006032,1,3.45,6,22,Yatim,Aktif,Tidak Ada,97
+524,Qori,1228504,1,2.61,5,18,Piatu,Aktif,Tidak Ada,69
+525,Tari,2694693,1,2.88,6,19,Yatim,Tidak Aktif,Tidak Ada,50
+526,Yani,3749817,3,3.04,8,20,Piatu,Aktif,Ada,50
+527,Lukman,3044491,4,3.21,3,21,Lengkap,Aktif,Tidak Ada,66
+528,Rani,2574486,6,2.57,1,18,Yatim,Aktif,Tidak Ada,50
+529,Citra,1573044,2,2.71,6,24,Yatim,Tidak Aktif,Ada,94
+530,Aisyah,2089385,3,2.92,2,19,Lengkap,Aktif,Tidak Ada,79
+531,Aisyah,2589589,3,3.96,8,24,Piatu,Aktif,Ada,90
+532,Sandi,1716756,6,3.0,1,24,Yatim Piatu,Tidak Aktif,Tidak Ada,96
+533,Kartini,1051226,6,3.22,3,24,Lengkap,Tidak Aktif,Ada,52
+534,Eka,3596664,2,2.79,6,24,Yatim Piatu,Aktif,Ada,95
+535,Lukman,4751198,2,3.42,5,24,Yatim Piatu,Tidak Aktif,Tidak Ada,60
+536,Citra,4621509,6,2.92,3,22,Lengkap,Aktif,Tidak Ada,73
+537,Aisyah,4175130,1,2.81,2,18,Piatu,Aktif,Tidak Ada,71
+538,Aisyah,4149991,3,3.27,6,18,Yatim Piatu,Aktif,Tidak Ada,93
+539,Hendra,4138145,5,2.51,7,21,Lengkap,Tidak Aktif,Ada,94
+540,Joko,4897611,2,2.51,7,19,Yatim,Aktif,Ada,75
+541,Kartini,2226476,2,2.83,4,20,Yatim,Tidak Aktif,Ada,62
+542,Lukman,1572212,6,2.56,1,22,Yatim,Tidak Aktif,Tidak Ada,50
+543,Maya,3433478,4,2.66,5,19,Lengkap,Aktif,Ada,73
+544,Lukman,1224137,5,3.01,4,22,Yatim,Tidak Aktif,Tidak Ada,59
+545,Nina,2500844,5,3.7,6,18,Yatim Piatu,Tidak Aktif,Tidak Ada,84
+546,Budi,1929168,2,3.36,7,24,Yatim,Tidak Aktif,Ada,73
+547,Sandi,4443609,1,3.27,7,21,Yatim,Tidak Aktif,Tidak Ada,77
+548,Rani,1363476,4,2.94,7,21,Yatim Piatu,Tidak Aktif,Ada,85
+549,Citra,2400283,5,3.9,6,23,Yatim,Aktif,Tidak Ada,65
+550,Wawan,2733309,2,3.1,7,20,Yatim Piatu,Tidak Aktif,Ada,89
+551,Qori,2559161,5,2.63,3,21,Yatim,Aktif,Tidak Ada,65
+552,Hendra,1691757,7,3.43,8,24,Yatim Piatu,Aktif,Ada,66
+553,Joko,1390719,4,2.67,6,18,Yatim,Aktif,Ada,100
+554,Budi,2527937,4,3.02,5,20,Yatim Piatu,Aktif,Tidak Ada,64
+555,Sandi,2149947,7,3.26,8,19,Lengkap,Aktif,Tidak Ada,65
+556,Ika,3660149,3,3.81,4,24,Yatim Piatu,Aktif,Ada,64
+557,Gita,4130730,7,3.24,5,24,Yatim,Tidak Aktif,Tidak Ada,83
+558,Dedi,4337920,6,3.55,8,21,Yatim,Tidak Aktif,Tidak Ada,60
+559,Udin,4296050,6,3.99,2,20,Piatu,Tidak Aktif,Tidak Ada,50
+560,Rani,3118324,2,2.7,7,18,Yatim Piatu,Aktif,Ada,64
+561,Maya,3632995,4,2.91,2,23,Lengkap,Tidak Aktif,Ada,75
+562,Kartini,3053490,3,3.09,1,22,Yatim Piatu,Tidak Aktif,Tidak Ada,100
+563,Yani,1996121,3,3.13,1,22,Yatim Piatu,Tidak Aktif,Tidak Ada,53
+564,Dedi,4723292,5,3.12,8,18,Lengkap,Aktif,Ada,92
+565,Zaki,3678932,5,3.86,2,18,Yatim Piatu,Tidak Aktif,Tidak Ada,54
+566,Udin,1708362,7,3.57,6,22,Lengkap,Aktif,Ada,84
+567,Zaki,3610471,3,3.41,5,23,Lengkap,Tidak Aktif,Tidak Ada,62
+568,Dedi,3877450,7,2.96,2,20,Yatim Piatu,Aktif,Tidak Ada,59
+569,Joko,1876031,7,3.74,1,22,Yatim Piatu,Aktif,Tidak Ada,60
+570,Eka,3038435,5,3.93,2,18,Yatim,Aktif,Ada,67
+571,Ika,2270896,4,3.73,6,21,Yatim,Tidak Aktif,Ada,83
+572,Yani,4563706,7,2.5,2,19,Piatu,Tidak Aktif,Ada,88
+573,Citra,2059622,1,3.45,5,23,Piatu,Aktif,Ada,90
+574,Qori,1228071,4,2.58,4,24,Yatim Piatu,Tidak Aktif,Tidak Ada,91
+575,Citra,1378165,3,2.89,6,23,Lengkap,Aktif,Tidak Ada,99
+576,Putu,2994849,3,2.59,1,21,Piatu,Aktif,Ada,72
+577,Dedi,1708662,7,3.41,5,21,Yatim Piatu,Tidak Aktif,Tidak Ada,56
+578,Rani,3513518,4,3.53,2,24,Piatu,Tidak Aktif,Tidak Ada,88
+579,Qori,2315573,5,2.67,2,18,Lengkap,Tidak Aktif,Ada,52
+580,Gita,2012117,5,3.08,4,22,Yatim Piatu,Aktif,Tidak Ada,61
+581,Yani,1645188,6,3.18,1,20,Lengkap,Aktif,Tidak Ada,56
+582,Wawan,2531191,3,3.05,1,23,Yatim Piatu,Tidak Aktif,Ada,98
+583,Eka,1415008,2,2.68,3,24,Piatu,Aktif,Tidak Ada,75
+584,Lukman,2631993,6,3.13,1,23,Yatim,Tidak Aktif,Tidak Ada,82
+585,Qori,4907107,5,3.63,4,21,Piatu,Aktif,Tidak Ada,86
+586,Wawan,4351278,4,2.61,7,22,Piatu,Tidak Aktif,Ada,97
+587,Maya,3342035,5,2.62,3,23,Yatim,Tidak Aktif,Ada,64
+588,Wawan,4784146,4,3.03,3,20,Yatim,Aktif,Tidak Ada,51
+589,Zaki,2509090,6,3.91,2,21,Yatim Piatu,Tidak Aktif,Tidak Ada,90
+590,Citra,4046643,3,3.5,2,20,Yatim Piatu,Tidak Aktif,Tidak Ada,56
+591,Ika,3768362,5,3.52,1,22,Lengkap,Aktif,Ada,81
+592,Qori,4026768,7,3.04,3,23,Lengkap,Tidak Aktif,Ada,53
+593,Qori,2170365,4,3.39,8,19,Piatu,Aktif,Ada,69
+594,Tari,1679418,3,2.52,2,23,Yatim,Tidak Aktif,Tidak Ada,99
+595,Putu,1700780,2,3.45,4,22,Lengkap,Aktif,Tidak Ada,85
+596,Zaki,2611754,4,3.87,8,23,Piatu,Tidak Aktif,Tidak Ada,81
+597,Vina,2114593,6,3.42,2,24,Yatim,Tidak Aktif,Tidak Ada,77
+598,Maya,2226952,2,3.81,6,23,Yatim Piatu,Tidak Aktif,Tidak Ada,62
+599,Sandi,2736857,2,3.59,6,18,Piatu,Tidak Aktif,Ada,50
+600,Qori,3596289,1,2.68,2,23,Yatim Piatu,Aktif,Tidak Ada,84
+601,Dedi,1656884,5,3.85,3,23,Lengkap,Aktif,Tidak Ada,97
+602,Lukman,3721864,4,2.6,7,20,Lengkap,Aktif,Tidak Ada,79
+603,Ika,4947208,2,3.3,7,19,Yatim,Aktif,Ada,85
+604,Sandi,3790416,1,2.71,3,20,Piatu,Aktif,Tidak Ada,74
+605,Lukman,3938496,6,2.52,5,20,Yatim Piatu,Aktif,Ada,65
+606,Ika,2606872,3,3.13,7,21,Yatim,Aktif,Ada,68
+607,Gita,4539004,7,2.94,6,18,Lengkap,Tidak Aktif,Ada,50
+608,Nina,4875754,7,3.23,4,20,Lengkap,Tidak Aktif,Ada,54
+609,Tari,3704999,4,3.37,3,24,Piatu,Tidak Aktif,Ada,100
+610,Sandi,2103913,2,2.57,1,22,Yatim Piatu,Tidak Aktif,Tidak Ada,71
+611,Omar,3994200,7,2.68,6,24,Piatu,Aktif,Tidak Ada,73
+612,Putu,2324070,5,3.34,4,22,Yatim Piatu,Aktif,Ada,92
+613,Udin,4170082,7,3.01,4,23,Yatim Piatu,Aktif,Ada,94
+614,Eka,4190914,7,3.59,3,21,Piatu,Tidak Aktif,Ada,86
+615,Citra,3649585,7,3.48,4,18,Yatim,Aktif,Tidak Ada,85
+616,Lukman,3524388,1,3.77,3,24,Piatu,Tidak Aktif,Tidak Ada,85
+617,Zaki,2658987,2,3.54,7,18,Piatu,Aktif,Ada,53
+618,Tari,2548459,5,3.14,2,24,Lengkap,Aktif,Tidak Ada,85
+619,Udin,4876274,2,3.51,6,23,Lengkap,Aktif,Tidak Ada,67
+620,Dedi,3837981,4,2.91,5,22,Piatu,Aktif,Ada,99
+621,Udin,2593445,4,2.96,2,19,Piatu,Tidak Aktif,Ada,65
+622,Wawan,2661793,4,3.68,6,21,Lengkap,Tidak Aktif,Tidak Ada,90
+623,Putu,3382347,6,3.17,3,24,Yatim Piatu,Aktif,Tidak Ada,67
+624,Zaki,3672914,7,3.7,6,24,Piatu,Tidak Aktif,Tidak Ada,71
+625,Gita,1616036,6,3.73,7,23,Yatim,Aktif,Ada,51
+626,Maya,4271723,1,3.79,3,21,Yatim,Aktif,Ada,70
+627,Udin,4391418,4,3.87,2,22,Yatim,Aktif,Ada,85
+628,Joko,2380346,5,3.15,1,22,Piatu,Aktif,Tidak Ada,93
+629,Gita,1793392,2,2.98,1,24,Yatim Piatu,Tidak Aktif,Tidak Ada,88
+630,Nina,1428988,7,3.37,8,19,Yatim Piatu,Aktif,Ada,96
+631,Eka,1180553,3,3.06,8,19,Lengkap,Aktif,Tidak Ada,88
+632,Citra,1560696,5,3.4,6,18,Piatu,Tidak Aktif,Ada,78
+633,Wawan,3977590,7,3.56,1,21,Yatim Piatu,Aktif,Tidak Ada,75
+634,Kartini,4405296,6,3.53,3,21,Piatu,Tidak Aktif,Ada,70
+635,Kartini,3416430,6,3.06,4,22,Lengkap,Aktif,Tidak Ada,66
+636,Rani,4297291,5,2.75,3,18,Lengkap,Aktif,Tidak Ada,65
+637,Omar,4802429,6,3.15,4,23,Lengkap,Aktif,Ada,80
+638,Lukman,1699983,4,2.71,2,21,Yatim,Aktif,Ada,100
+639,Ika,4760343,1,3.84,5,18,Piatu,Aktif,Ada,58
+640,Joko,3490706,2,3.02,4,18,Lengkap,Aktif,Ada,80
+641,Lukman,4348231,1,2.73,1,24,Piatu,Tidak Aktif,Ada,63
+642,Qori,2191902,7,2.54,3,22,Yatim,Aktif,Tidak Ada,98
+643,Fajar,4852948,2,3.47,2,18,Yatim,Tidak Aktif,Ada,86
+644,Gita,2059920,2,3.46,1,19,Lengkap,Tidak Aktif,Ada,51
+645,Nina,3492118,1,3.01,2,19,Lengkap,Aktif,Ada,97
+646,Maya,3020836,5,2.61,5,20,Yatim Piatu,Tidak Aktif,Ada,95
+647,Hendra,4737973,2,3.11,7,22,Piatu,Aktif,Ada,63
+648,Joko,3202575,1,2.97,3,24,Lengkap,Tidak Aktif,Tidak Ada,82
+649,Ika,3417349,2,3.52,6,23,Yatim Piatu,Aktif,Ada,84
+650,Rani,1464071,3,3.41,3,20,Piatu,Tidak Aktif,Ada,88
+651,Budi,3768408,5,3.05,8,19,Lengkap,Tidak Aktif,Ada,96
+652,Eka,1186833,4,2.83,5,24,Yatim Piatu,Aktif,Tidak Ada,100
+653,Eka,1717912,2,3.98,3,20,Yatim Piatu,Tidak Aktif,Tidak Ada,69
+654,Fajar,1775435,3,3.18,8,22,Piatu,Aktif,Ada,51
+655,Sandi,3174606,4,3.53,6,24,Yatim Piatu,Aktif,Ada,100
+656,Hendra,4403322,4,2.71,4,22,Piatu,Aktif,Tidak Ada,90
+657,Putu,2560473,7,3.23,2,18,Piatu,Aktif,Tidak Ada,68
+658,Maya,4498472,2,2.54,6,21,Piatu,Aktif,Tidak Ada,86
+659,Aisyah,4006316,1,3.26,1,18,Yatim,Tidak Aktif,Ada,67
+660,Vina,2564718,2,3.95,5,22,Yatim Piatu,Tidak Aktif,Ada,65
+661,Tari,1945439,3,3.08,4,24,Piatu,Tidak Aktif,Tidak Ada,53
+662,Qori,3134793,4,2.56,1,19,Lengkap,Aktif,Ada,61
+663,Gita,2602575,2,2.55,1,23,Yatim,Tidak Aktif,Tidak Ada,78
+664,Zaki,2905350,1,3.08,5,19,Yatim,Tidak Aktif,Tidak Ada,56
+665,Maya,2417616,7,2.74,4,24,Yatim Piatu,Tidak Aktif,Tidak Ada,63
+666,Dedi,4813270,2,2.54,7,18,Piatu,Tidak Aktif,Ada,61
+667,Dedi,1612121,5,3.63,1,23,Yatim Piatu,Tidak Aktif,Tidak Ada,84
+668,Fajar,3415572,7,3.19,1,24,Yatim,Aktif,Tidak Ada,54
+669,Sandi,3378837,1,2.93,4,22,Piatu,Aktif,Ada,66
+670,Lukman,2929465,3,3.85,3,19,Lengkap,Tidak Aktif,Tidak Ada,91
+671,Vina,2524102,4,2.67,1,22,Piatu,Aktif,Ada,81
+672,Gita,4190541,2,3.93,2,23,Yatim,Aktif,Tidak Ada,59
+673,Joko,2741134,1,2.97,4,23,Lengkap,Tidak Aktif,Ada,92
+674,Sandi,1664180,7,3.83,1,19,Piatu,Tidak Aktif,Tidak Ada,66
+675,Gita,3383366,5,3.4,5,22,Lengkap,Aktif,Tidak Ada,54
+676,Citra,3035848,1,3.74,6,20,Lengkap,Tidak Aktif,Tidak Ada,94
+677,Maya,1928626,6,3.98,2,22,Yatim,Aktif,Tidak Ada,91
+678,Maya,3439855,5,2.93,8,23,Lengkap,Aktif,Tidak Ada,58
+679,Rani,1204615,7,3.94,8,22,Yatim Piatu,Tidak Aktif,Ada,98
+680,Tari,2525233,3,3.08,6,24,Yatim,Aktif,Ada,82
+681,Hendra,4711802,4,3.08,8,18,Yatim Piatu,Aktif,Tidak Ada,85
+682,Ika,4896022,7,3.01,6,20,Lengkap,Aktif,Tidak Ada,85
+683,Gita,2803740,3,3.31,1,21,Yatim Piatu,Tidak Aktif,Tidak Ada,67
+684,Aisyah,3497105,2,2.73,2,24,Piatu,Tidak Aktif,Ada,58
+685,Citra,4968222,1,3.33,2,18,Lengkap,Tidak Aktif,Ada,78
+686,Maya,4068893,6,3.31,3,21,Piatu,Tidak Aktif,Tidak Ada,99
+687,Zaki,1838003,5,3.64,6,19,Yatim Piatu,Aktif,Ada,63
+688,Qori,4433382,5,3.75,2,21,Piatu,Tidak Aktif,Tidak Ada,74
+689,Zaki,1281570,1,3.16,3,24,Lengkap,Tidak Aktif,Tidak Ada,64
+690,Yani,4182993,6,2.95,4,22,Piatu,Tidak Aktif,Tidak Ada,55
+691,Aisyah,4395049,1,2.89,3,24,Yatim Piatu,Tidak Aktif,Ada,91
+692,Fajar,1066150,2,2.79,5,21,Yatim Piatu,Aktif,Tidak Ada,78
+693,Udin,4757328,3,2.59,7,23,Yatim Piatu,Aktif,Tidak Ada,64
+694,Fajar,4235341,7,3.01,1,18,Lengkap,Aktif,Tidak Ada,78
+695,Lukman,3434206,5,2.91,4,18,Yatim Piatu,Tidak Aktif,Ada,53
+696,Maya,2887383,2,3.95,7,21,Lengkap,Tidak Aktif,Ada,67
+697,Maya,3218978,3,3.34,7,18,Piatu,Aktif,Ada,99
+698,Omar,1559723,2,3.02,4,23,Yatim Piatu,Tidak Aktif,Tidak Ada,98
+699,Udin,2931451,6,3.37,5,24,Piatu,Tidak Aktif,Ada,93
+700,Putu,3547500,5,2.71,3,18,Yatim,Aktif,Tidak Ada,88
+701,Vina,4355745,7,3.17,1,21,Piatu,Aktif,Ada,65
+702,Udin,1999554,1,3.44,3,20,Yatim,Tidak Aktif,Tidak Ada,60
+703,Kartini,1134055,1,3.23,2,20,Piatu,Tidak Aktif,Ada,63
+704,Eka,3587609,3,3.1,3,19,Lengkap,Tidak Aktif,Tidak Ada,52
+705,Dedi,1676022,7,3.99,8,18,Piatu,Aktif,Ada,100
+706,Citra,1809942,4,3.82,4,24,Lengkap,Aktif,Ada,99
+707,Sandi,4879275,6,3.44,1,21,Lengkap,Aktif,Ada,91
+708,Tari,1696358,3,3.35,3,18,Yatim Piatu,Aktif,Tidak Ada,87
+709,Zaki,4595790,4,3.43,1,22,Lengkap,Tidak Aktif,Ada,94
+710,Rani,2142647,2,2.8,1,23,Yatim,Aktif,Ada,91
+711,Omar,2841648,6,3.09,2,18,Yatim Piatu,Aktif,Ada,67
+712,Ika,2355267,2,2.56,2,18,Yatim Piatu,Tidak Aktif,Ada,69
+713,Qori,3938204,7,3.21,4,20,Piatu,Tidak Aktif,Tidak Ada,97
+714,Nina,3243541,5,3.31,5,23,Lengkap,Tidak Aktif,Ada,74
+715,Omar,2688472,6,2.84,8,21,Lengkap,Aktif,Tidak Ada,87
+716,Aisyah,3366860,4,3.95,7,18,Yatim,Tidak Aktif,Tidak Ada,62
+717,Udin,4828433,5,3.86,1,20,Piatu,Tidak Aktif,Tidak Ada,53
+718,Vina,3735264,1,3.58,5,19,Piatu,Aktif,Tidak Ada,63
+719,Vina,2011727,4,3.3,7,23,Yatim Piatu,Aktif,Ada,82
+720,Citra,1254444,3,3.8,7,20,Yatim Piatu,Tidak Aktif,Tidak Ada,77
+721,Putu,3700713,1,2.7,8,20,Yatim Piatu,Aktif,Tidak Ada,86
+722,Wawan,3958443,1,3.69,4,24,Yatim,Tidak Aktif,Tidak Ada,57
+723,Zaki,3308989,3,2.69,7,20,Yatim,Tidak Aktif,Tidak Ada,93
+724,Kartini,3207169,6,3.69,8,24,Yatim Piatu,Aktif,Ada,83
+725,Lukman,1123618,1,2.91,7,18,Piatu,Tidak Aktif,Ada,93
+726,Joko,1459297,7,3.82,1,18,Yatim,Aktif,Tidak Ada,54
+727,Putu,4271069,4,3.92,1,19,Piatu,Aktif,Tidak Ada,54
+728,Hendra,2020154,5,2.72,6,22,Piatu,Aktif,Tidak Ada,80
+729,Fajar,3913014,1,3.19,5,22,Lengkap,Tidak Aktif,Ada,94
+730,Lukman,4876620,4,3.97,3,22,Yatim Piatu,Aktif,Ada,58
+731,Yani,3649228,2,3.23,8,24,Lengkap,Aktif,Ada,91
+732,Udin,1750865,4,3.8,2,23,Yatim Piatu,Tidak Aktif,Ada,81
+733,Hendra,3538911,5,3.38,8,23,Yatim Piatu,Tidak Aktif,Ada,82
+734,Dedi,3979706,4,3.06,3,19,Piatu,Tidak Aktif,Tidak Ada,52
+735,Hendra,4709990,3,2.93,5,23,Yatim Piatu,Tidak Aktif,Ada,79
+736,Rani,3990893,5,2.8,2,22,Piatu,Aktif,Ada,99
+737,Eka,1540659,6,3.64,3,22,Piatu,Aktif,Tidak Ada,61
+738,Ika,4977244,2,3.08,6,20,Yatim Piatu,Aktif,Ada,78
+739,Dedi,3519997,3,3.27,2,23,Piatu,Tidak Aktif,Ada,52
+740,Vina,3803696,6,3.24,1,18,Piatu,Tidak Aktif,Ada,75
+741,Qori,3421212,4,3.37,3,18,Piatu,Aktif,Tidak Ada,79
+742,Ika,3093373,5,3.8,8,20,Yatim,Tidak Aktif,Ada,58
+743,Aisyah,2646836,2,3.97,2,20,Piatu,Tidak Aktif,Tidak Ada,75
+744,Udin,2241835,3,3.11,6,20,Yatim,Aktif,Tidak Ada,51
+745,Tari,3372280,6,3.74,8,18,Yatim,Aktif,Ada,52
+746,Maya,3916623,6,3.65,7,22,Piatu,Tidak Aktif,Ada,95
+747,Putu,3706871,2,3.36,2,20,Piatu,Tidak Aktif,Ada,53
+748,Maya,1870123,7,3.93,2,19,Yatim,Tidak Aktif,Ada,74
+749,Nina,3942190,4,2.8,6,24,Yatim,Aktif,Tidak Ada,100
+750,Citra,4549560,2,2.66,7,20,Piatu,Aktif,Ada,62
+751,Fajar,3986249,6,3.78,3,24,Piatu,Aktif,Tidak Ada,88
+752,Rani,4775389,1,3.16,4,21,Yatim Piatu,Aktif,Tidak Ada,93
+753,Sandi,4326872,3,3.77,3,20,Yatim,Aktif,Tidak Ada,84
+754,Eka,2859582,2,3.84,7,18,Yatim,Tidak Aktif,Tidak Ada,72
+755,Omar,2969510,7,2.59,5,23,Yatim Piatu,Tidak Aktif,Tidak Ada,58
+756,Zaki,1250195,6,3.83,8,20,Yatim,Tidak Aktif,Ada,51
+757,Budi,2192324,4,3.17,6,23,Lengkap,Aktif,Tidak Ada,90
+758,Joko,4549760,6,3.27,3,21,Yatim,Aktif,Tidak Ada,93
+759,Yani,3129885,4,3.44,2,19,Yatim Piatu,Aktif,Ada,80
+760,Rani,2789616,2,3.89,6,23,Lengkap,Tidak Aktif,Ada,93
+761,Maya,1526338,4,2.53,1,24,Piatu,Aktif,Tidak Ada,96
+762,Eka,3207148,5,3.22,7,22,Yatim Piatu,Aktif,Tidak Ada,51
+763,Wawan,1558221,5,3.53,8,20,Yatim Piatu,Tidak Aktif,Ada,81
+764,Yani,1549239,5,3.58,3,21,Piatu,Aktif,Tidak Ada,67
+765,Aisyah,1556701,7,3.54,6,21,Yatim Piatu,Tidak Aktif,Ada,62
+766,Vina,2214449,7,2.7,8,23,Yatim,Aktif,Ada,95
+767,Aisyah,2759555,1,2.95,3,19,Piatu,Aktif,Tidak Ada,54
+768,Rani,4047569,7,3.04,6,18,Yatim Piatu,Tidak Aktif,Ada,91
+769,Omar,1899005,2,3.71,2,20,Piatu,Tidak Aktif,Tidak Ada,93
+770,Qori,2036580,6,2.92,1,21,Piatu,Tidak Aktif,Tidak Ada,59
+771,Kartini,1433816,6,2.82,1,19,Piatu,Tidak Aktif,Tidak Ada,92
+772,Udin,4858863,1,3.94,5,22,Lengkap,Tidak Aktif,Ada,74
+773,Zaki,2270464,7,2.51,6,21,Yatim Piatu,Tidak Aktif,Tidak Ada,83
+774,Vina,1785332,4,4.0,3,19,Lengkap,Aktif,Ada,86
+775,Qori,2794029,1,3.52,1,18,Yatim Piatu,Aktif,Tidak Ada,79
+776,Maya,1767950,4,3.74,7,18,Yatim,Tidak Aktif,Tidak Ada,56
+777,Aisyah,1166472,4,2.94,1,21,Yatim,Aktif,Ada,55
+778,Budi,1397710,3,2.52,4,24,Yatim,Tidak Aktif,Tidak Ada,52
+779,Ika,3308912,6,3.61,4,21,Yatim Piatu,Aktif,Tidak Ada,62
+780,Citra,1122744,5,3.75,1,23,Piatu,Tidak Aktif,Ada,52
+781,Aisyah,2778627,7,3.61,6,20,Piatu,Aktif,Ada,75
+782,Udin,3063499,4,2.71,5,19,Lengkap,Aktif,Ada,73
+783,Putu,2550522,3,3.63,1,21,Lengkap,Aktif,Tidak Ada,55
+784,Wawan,4188729,6,3.65,2,20,Yatim,Aktif,Ada,92
+785,Fajar,1591652,5,3.49,8,23,Lengkap,Aktif,Ada,98
+786,Qori,1911420,4,3.65,3,20,Yatim Piatu,Tidak Aktif,Tidak Ada,91
+787,Eka,1831460,4,3.77,5,21,Yatim Piatu,Tidak Aktif,Ada,61
+788,Eka,3335658,1,3.42,2,18,Lengkap,Tidak Aktif,Tidak Ada,98
+789,Fajar,3850171,1,2.63,5,19,Lengkap,Aktif,Tidak Ada,85
+790,Citra,3527941,6,3.23,2,19,Lengkap,Tidak Aktif,Ada,51
+791,Udin,4801894,5,2.62,3,18,Lengkap,Aktif,Tidak Ada,60
+792,Wawan,1910775,4,3.11,3,24,Yatim,Aktif,Ada,88
+793,Eka,2760574,6,3.11,4,21,Yatim,Aktif,Ada,83
+794,Udin,2701165,6,2.6,6,19,Lengkap,Tidak Aktif,Ada,75
+795,Eka,1912727,2,3.02,2,21,Yatim Piatu,Aktif,Ada,67
+796,Joko,3596874,7,2.67,8,23,Yatim,Tidak Aktif,Tidak Ada,70
+797,Joko,2733693,1,3.71,4,21,Yatim Piatu,Tidak Aktif,Tidak Ada,85
+798,Sandi,1558924,5,3.92,2,20,Piatu,Aktif,Ada,89
+799,Qori,4881185,4,2.61,4,18,Yatim Piatu,Aktif,Ada,95
+800,Udin,1179352,6,3.93,3,24,Lengkap,Tidak Aktif,Tidak Ada,93
+801,Nina,1810694,4,3.28,5,21,Piatu,Tidak Aktif,Ada,71
+802,Ika,3290435,2,2.95,7,24,Yatim,Tidak Aktif,Tidak Ada,79
+803,Nina,1972346,5,2.62,4,24,Yatim,Tidak Aktif,Ada,99
+804,Aisyah,1915015,6,3.25,2,23,Piatu,Tidak Aktif,Tidak Ada,92
+805,Sandi,2498771,4,3.69,2,22,Yatim Piatu,Tidak Aktif,Tidak Ada,79
+806,Maya,4915612,1,3.56,7,18,Yatim,Aktif,Tidak Ada,57
+807,Maya,1998974,7,2.58,6,24,Lengkap,Tidak Aktif,Ada,83
+808,Dedi,1431413,2,2.61,8,19,Piatu,Tidak Aktif,Ada,96
+809,Aisyah,2352564,5,3.1,3,20,Lengkap,Tidak Aktif,Ada,58
+810,Qori,3424050,2,2.94,2,19,Piatu,Tidak Aktif,Ada,100
+811,Hendra,1951661,1,2.85,1,23,Yatim,Aktif,Ada,69
+812,Budi,1863561,5,2.92,5,23,Yatim Piatu,Aktif,Tidak Ada,89
+813,Hendra,1302186,2,3.71,4,19,Piatu,Tidak Aktif,Tidak Ada,74
+814,Gita,4207393,3,3.89,6,18,Piatu,Tidak Aktif,Tidak Ada,68
+815,Budi,2295160,1,3.11,8,19,Lengkap,Tidak Aktif,Tidak Ada,54
+816,Vina,4262681,1,3.86,7,21,Yatim,Aktif,Tidak Ada,60
+817,Vina,3573224,1,2.98,5,19,Lengkap,Aktif,Tidak Ada,64
+818,Citra,4828464,3,3.21,3,20,Yatim,Aktif,Tidak Ada,57
+819,Rani,2026553,3,2.84,6,20,Lengkap,Aktif,Ada,68
+820,Lukman,2235202,4,3.46,8,22,Piatu,Aktif,Tidak Ada,72
+821,Aisyah,1145271,6,3.97,4,20,Lengkap,Aktif,Ada,76
+822,Vina,3215685,7,3.41,4,19,Yatim Piatu,Tidak Aktif,Tidak Ada,89
+823,Lukman,1968452,2,3.04,7,20,Yatim,Aktif,Tidak Ada,81
+824,Eka,4743797,4,3.47,1,18,Yatim,Aktif,Ada,75
+825,Zaki,2514542,2,2.68,7,24,Piatu,Tidak Aktif,Tidak Ada,76
+826,Qori,3163414,7,3.83,3,20,Yatim,Aktif,Ada,68
+827,Putu,3930184,6,3.25,6,21,Yatim Piatu,Tidak Aktif,Tidak Ada,99
+828,Omar,1076898,3,3.17,6,18,Lengkap,Aktif,Ada,91
+829,Wawan,3552851,6,3.38,2,22,Piatu,Tidak Aktif,Tidak Ada,78
+830,Omar,4295097,3,3.44,1,21,Yatim Piatu,Tidak Aktif,Ada,88
+831,Eka,3651888,7,2.61,1,19,Yatim,Tidak Aktif,Ada,90
+832,Udin,1288316,6,3.52,6,24,Yatim,Tidak Aktif,Tidak Ada,82
+833,Nina,3008954,4,2.86,6,19,Yatim Piatu,Tidak Aktif,Tidak Ada,68
+834,Budi,4153385,5,3.57,5,24,Lengkap,Aktif,Ada,86
+835,Kartini,3574754,4,3.73,8,24,Lengkap,Aktif,Tidak Ada,68
+836,Sandi,2829553,2,3.71,5,19,Piatu,Tidak Aktif,Ada,82
+837,Gita,4041341,4,3.33,5,21,Yatim,Tidak Aktif,Tidak Ada,96
+838,Fajar,2039504,7,3.28,1,21,Yatim Piatu,Tidak Aktif,Ada,65
+839,Budi,3472151,1,2.71,2,24,Lengkap,Aktif,Tidak Ada,72
+840,Fajar,2732767,2,3.66,4,21,Piatu,Tidak Aktif,Ada,56
+841,Rani,3105058,6,2.91,5,24,Yatim,Tidak Aktif,Tidak Ada,75
+842,Budi,4469285,2,3.25,2,24,Yatim,Tidak Aktif,Ada,81
+843,Rani,4724044,5,2.93,7,18,Piatu,Tidak Aktif,Ada,61
+844,Omar,1793719,3,2.7,3,23,Piatu,Aktif,Tidak Ada,57
+845,Sandi,4441532,6,3.44,5,18,Lengkap,Tidak Aktif,Tidak Ada,54
+846,Budi,4614702,2,2.58,7,19,Yatim Piatu,Tidak Aktif,Ada,91
+847,Tari,3944088,6,3.62,4,23,Yatim,Aktif,Ada,77
+848,Zaki,1715080,6,2.98,3,20,Yatim Piatu,Tidak Aktif,Ada,54
+849,Fajar,2675843,6,2.5,3,19,Yatim,Tidak Aktif,Ada,98
+850,Aisyah,1034701,3,3.27,4,22,Yatim,Aktif,Tidak Ada,75
+851,Yani,4229028,7,2.57,5,18,Yatim Piatu,Aktif,Ada,54
+852,Omar,3862689,4,2.91,1,21,Piatu,Aktif,Ada,71
+853,Wawan,2721610,6,3.56,4,18,Lengkap,Tidak Aktif,Ada,64
+854,Joko,3180712,1,2.59,4,21,Yatim,Tidak Aktif,Tidak Ada,62
+855,Sandi,3339767,7,3.76,4,23,Piatu,Aktif,Ada,77
+856,Qori,3140794,5,2.51,3,22,Yatim,Aktif,Tidak Ada,82
+857,Eka,3614235,3,2.87,8,23,Lengkap,Aktif,Tidak Ada,92
+858,Dedi,1491036,2,3.61,2,22,Yatim,Tidak Aktif,Tidak Ada,72
+859,Joko,1327304,3,2.97,7,18,Lengkap,Tidak Aktif,Tidak Ada,82
+860,Yani,2852610,2,2.65,1,21,Lengkap,Aktif,Tidak Ada,92
+861,Qori,3462616,3,3.04,5,23,Yatim,Tidak Aktif,Tidak Ada,67
+862,Joko,3710241,2,2.91,5,22,Yatim,Aktif,Tidak Ada,99
+863,Qori,4433803,6,3.76,7,24,Lengkap,Tidak Aktif,Ada,79
+864,Tari,2142953,4,2.97,2,19,Piatu,Tidak Aktif,Ada,75
+865,Yani,4961352,2,3.68,4,19,Yatim Piatu,Tidak Aktif,Tidak Ada,65
+866,Eka,4978702,2,3.84,8,23,Lengkap,Tidak Aktif,Ada,62
+867,Budi,4974680,1,3.15,1,21,Yatim,Aktif,Ada,88
+868,Fajar,1326916,2,3.86,5,24,Yatim,Tidak Aktif,Tidak Ada,82
+869,Udin,4597706,1,3.07,7,23,Piatu,Tidak Aktif,Ada,75
+870,Budi,1312250,5,3.95,6,18,Yatim Piatu,Aktif,Tidak Ada,97
+871,Maya,1605409,6,2.63,8,22,Lengkap,Tidak Aktif,Ada,50
+872,Kartini,2074135,1,3.53,7,18,Lengkap,Aktif,Tidak Ada,98
+873,Kartini,3989179,4,3.24,8,19,Yatim Piatu,Aktif,Tidak Ada,87
+874,Putu,3655182,7,3.08,5,22,Lengkap,Tidak Aktif,Ada,51
+875,Kartini,1856101,6,3.45,4,23,Yatim Piatu,Tidak Aktif,Ada,98
+876,Sandi,2725690,1,3.56,6,18,Yatim,Aktif,Tidak Ada,55
+877,Omar,4280772,6,2.51,2,20,Yatim Piatu,Aktif,Tidak Ada,95
+878,Zaki,4257945,6,2.75,1,21,Lengkap,Aktif,Tidak Ada,99
+879,Wawan,2614737,6,3.57,2,24,Yatim Piatu,Tidak Aktif,Ada,87
+880,Wawan,1892964,5,3.5,2,24,Piatu,Aktif,Ada,91
+881,Putu,2961275,4,3.95,7,21,Yatim,Aktif,Ada,73
+882,Kartini,1403119,3,3.64,8,20,Yatim,Aktif,Ada,67
+883,Vina,3755532,3,3.93,1,19,Yatim Piatu,Tidak Aktif,Tidak Ada,76
+884,Putu,4973915,1,3.55,1,22,Lengkap,Aktif,Tidak Ada,90
+885,Hendra,2135564,6,2.95,5,21,Piatu,Tidak Aktif,Tidak Ada,57
+886,Dedi,3667088,1,2.66,5,20,Yatim,Tidak Aktif,Tidak Ada,77
+887,Hendra,1125991,5,3.67,1,23,Yatim,Aktif,Ada,59
+888,Dedi,1402732,5,3.47,6,24,Lengkap,Tidak Aktif,Tidak Ada,66
+889,Yani,1506079,2,2.57,3,20,Lengkap,Aktif,Tidak Ada,78
+890,Zaki,2950013,5,3.04,5,19,Piatu,Tidak Aktif,Ada,55
+891,Citra,3623836,2,3.94,3,19,Yatim Piatu,Tidak Aktif,Ada,63
+892,Citra,2132658,4,3.25,7,18,Lengkap,Aktif,Tidak Ada,71
+893,Rani,2985209,1,3.15,6,21,Yatim Piatu,Aktif,Ada,55
+894,Sandi,1128322,7,3.19,1,18,Piatu,Aktif,Tidak Ada,75
+895,Sandi,1656951,4,2.81,6,24,Yatim Piatu,Tidak Aktif,Ada,88
+896,Udin,1011303,5,3.05,5,20,Yatim,Tidak Aktif,Ada,61
+897,Eka,2210209,4,3.05,2,22,Yatim Piatu,Aktif,Tidak Ada,84
+898,Rani,4479591,4,2.58,7,22,Piatu,Aktif,Ada,63
+899,Joko,2298266,4,3.65,1,19,Piatu,Tidak Aktif,Tidak Ada,71
+900,Vina,2009612,5,3.12,4,22,Piatu,Tidak Aktif,Ada,100
+901,Udin,2832684,7,3.73,7,22,Yatim Piatu,Tidak Aktif,Ada,72
+902,Fajar,3196768,6,3.78,8,24,Yatim,Aktif,Ada,97
+903,Aisyah,4007749,4,2.82,3,22,Lengkap,Tidak Aktif,Ada,56
+904,Eka,4231959,2,3.49,6,20,Yatim,Aktif,Ada,89
+905,Ika,3366610,5,3.21,1,22,Yatim Piatu,Tidak Aktif,Tidak Ada,99
+906,Lukman,2068199,4,3.82,7,23,Yatim Piatu,Tidak Aktif,Ada,74
+907,Nina,1723035,7,2.82,6,22,Lengkap,Aktif,Tidak Ada,62
+908,Budi,1490042,6,3.52,1,22,Yatim Piatu,Aktif,Ada,70
+909,Qori,1458298,5,3.41,5,18,Piatu,Aktif,Tidak Ada,90
+910,Nina,2047343,3,2.94,7,20,Piatu,Tidak Aktif,Ada,59
+911,Maya,2525416,6,2.7,5,19,Piatu,Tidak Aktif,Tidak Ada,58
+912,Ika,1105228,2,3.48,7,18,Piatu,Tidak Aktif,Tidak Ada,64
+913,Zaki,1426346,4,3.61,5,21,Piatu,Aktif,Ada,51
+914,Omar,2755692,7,2.97,8,20,Yatim Piatu,Tidak Aktif,Ada,74
+915,Zaki,1884056,3,3.47,6,23,Lengkap,Aktif,Ada,62
+916,Vina,2730228,7,3.09,4,20,Lengkap,Aktif,Tidak Ada,83
+917,Omar,2946793,3,3.57,7,21,Piatu,Aktif,Tidak Ada,100
+918,Yani,2569123,5,2.8,8,21,Yatim Piatu,Tidak Aktif,Ada,83
+919,Kartini,2921214,3,3.84,7,21,Yatim,Tidak Aktif,Ada,84
+920,Putu,4215002,2,2.93,5,24,Yatim,Aktif,Tidak Ada,87
+921,Qori,4279269,2,3.05,1,19,Yatim Piatu,Tidak Aktif,Tidak Ada,52
+922,Dedi,4199675,1,2.59,7,22,Piatu,Aktif,Ada,91
+923,Aisyah,2726470,2,2.67,8,20,Lengkap,Aktif,Tidak Ada,55
+924,Hendra,4340420,6,3.27,5,24,Yatim Piatu,Tidak Aktif,Ada,97
+925,Qori,1048874,3,2.9,2,22,Yatim,Aktif,Ada,98
+926,Citra,2622572,2,3.75,5,22,Yatim,Aktif,Ada,68
+927,Tari,4220281,5,2.52,6,23,Yatim,Tidak Aktif,Tidak Ada,52
+928,Omar,3689784,7,3.07,4,21,Piatu,Aktif,Tidak Ada,67
+929,Omar,4981298,7,3.01,2,19,Yatim,Aktif,Tidak Ada,88
+930,Yani,1709662,1,2.53,6,23,Yatim Piatu,Aktif,Tidak Ada,58
+931,Vina,3669078,7,2.69,6,18,Yatim Piatu,Aktif,Ada,61
+932,Nina,2126825,3,3.12,6,24,Yatim,Aktif,Tidak Ada,54
+933,Wawan,3624159,1,3.24,1,24,Yatim Piatu,Aktif,Ada,52
+934,Nina,1678250,3,3.11,6,19,Yatim,Aktif,Ada,60
+935,Yani,1470452,5,3.3,1,22,Yatim,Tidak Aktif,Ada,79
+936,Budi,2478301,1,3.39,6,24,Lengkap,Tidak Aktif,Tidak Ada,53
+937,Maya,3139686,4,2.51,3,19,Piatu,Aktif,Ada,54
+938,Nina,3592670,6,3.2,8,24,Piatu,Aktif,Ada,50
+939,Yani,1616529,6,3.95,2,24,Lengkap,Tidak Aktif,Tidak Ada,76
+940,Sandi,3509155,3,3.28,3,21,Lengkap,Tidak Aktif,Ada,77
+941,Gita,3223361,7,3.52,6,18,Piatu,Tidak Aktif,Tidak Ada,78
+942,Citra,1442061,4,2.97,2,21,Yatim,Tidak Aktif,Tidak Ada,67
+943,Omar,4334732,1,3.66,2,18,Yatim,Tidak Aktif,Tidak Ada,61
+944,Wawan,3713564,4,3.66,7,24,Piatu,Aktif,Ada,62
+945,Nina,4761675,4,3.28,4,23,Yatim,Tidak Aktif,Tidak Ada,90
+946,Kartini,3261286,7,3.96,3,22,Lengkap,Tidak Aktif,Tidak Ada,51
+947,Omar,4221441,1,2.69,4,24,Yatim,Tidak Aktif,Tidak Ada,86
+948,Maya,4888351,5,2.53,2,18,Yatim,Aktif,Tidak Ada,94
+949,Rani,1488972,7,3.66,1,18,Yatim Piatu,Aktif,Ada,65
+950,Fajar,4075117,4,3.71,2,18,Yatim Piatu,Aktif,Tidak Ada,97
+951,Citra,2123994,4,2.68,4,24,Yatim Piatu,Aktif,Ada,73
+952,Sandi,4081328,5,2.9,3,19,Yatim,Aktif,Tidak Ada,84
+953,Omar,2176808,4,2.53,6,23,Piatu,Aktif,Ada,71
+954,Zaki,3617703,4,2.94,7,19,Lengkap,Tidak Aktif,Tidak Ada,85
+955,Wawan,1163038,4,3.66,7,22,Yatim,Aktif,Ada,60
+956,Eka,4087201,6,3.28,7,24,Piatu,Aktif,Tidak Ada,95
+957,Joko,1930491,7,3.02,6,18,Yatim,Tidak Aktif,Ada,78
+958,Gita,2216959,2,3.06,7,23,Lengkap,Aktif,Ada,84
+959,Zaki,4963735,7,2.5,3,23,Yatim,Tidak Aktif,Ada,97
+960,Qori,2374572,5,2.95,6,20,Lengkap,Tidak Aktif,Tidak Ada,64
+961,Gita,3355874,4,3.47,7,22,Yatim,Aktif,Ada,80
+962,Vina,3229231,7,3.96,6,23,Lengkap,Tidak Aktif,Ada,91
+963,Lukman,3299205,6,3.77,4,24,Yatim,Tidak Aktif,Ada,90
+964,Zaki,1600530,5,2.54,8,18,Lengkap,Tidak Aktif,Ada,92
+965,Qori,2227165,3,3.85,8,18,Yatim Piatu,Tidak Aktif,Tidak Ada,65
+966,Maya,4648966,7,3.67,3,23,Yatim,Aktif,Ada,59
+967,Tari,2077833,3,3.67,5,19,Yatim,Tidak Aktif,Ada,98
+968,Zaki,3577640,4,3.19,1,22,Piatu,Aktif,Ada,81
+969,Dedi,1435423,6,3.1,7,18,Piatu,Tidak Aktif,Tidak Ada,100
+970,Joko,2192929,6,2.95,1,23,Lengkap,Tidak Aktif,Ada,51
+971,Citra,1323390,7,2.6,6,18,Yatim,Tidak Aktif,Ada,73
+972,Ika,3360731,5,2.84,1,23,Lengkap,Aktif,Ada,72
+973,Maya,4375675,5,2.87,3,22,Yatim Piatu,Aktif,Ada,51
+974,Rani,4377486,6,3.23,3,23,Piatu,Aktif,Tidak Ada,87
+975,Omar,2664221,5,3.62,2,20,Lengkap,Tidak Aktif,Ada,80
+976,Dedi,4303460,6,3.21,8,23,Lengkap,Tidak Aktif,Ada,100
+977,Omar,4096853,7,2.59,7,23,Piatu,Tidak Aktif,Tidak Ada,89
+978,Vina,4028163,2,3.94,2,24,Yatim,Tidak Aktif,Tidak Ada,75
+979,Budi,4873683,6,3.91,1,22,Lengkap,Aktif,Tidak Ada,78
+980,Omar,2656671,3,3.68,5,24,Piatu,Tidak Aktif,Ada,52
+981,Hendra,2487331,5,3.99,2,23,Yatim,Aktif,Tidak Ada,63
+982,Hendra,2950961,6,3.32,2,22,Yatim Piatu,Tidak Aktif,Ada,74
+983,Qori,1138563,6,3.94,3,20,Piatu,Aktif,Tidak Ada,97
+984,Lukman,1783066,7,2.61,5,22,Lengkap,Aktif,Ada,50
+985,Sandi,2554623,5,3.05,6,18,Yatim Piatu,Tidak Aktif,Tidak Ada,52
+986,Joko,1705552,2,2.84,1,24,Yatim,Tidak Aktif,Ada,75
+987,Ika,3046475,7,2.79,2,22,Yatim,Aktif,Tidak Ada,67
+988,Eka,3423184,2,2.71,5,20,Piatu,Tidak Aktif,Ada,58
+989,Fajar,1597897,7,3.43,8,21,Piatu,Tidak Aktif,Ada,87
+990,Tari,4941237,5,3.67,7,23,Piatu,Aktif,Ada,72
+991,Budi,1772800,1,3.37,5,22,Yatim,Aktif,Ada,70
+992,Yani,2302549,5,2.72,8,23,Yatim Piatu,Aktif,Ada,50
+993,Maya,4428825,5,3.72,1,19,Yatim,Aktif,Ada,70
+994,Fajar,3042999,2,3.45,5,18,Lengkap,Tidak Aktif,Ada,76
+995,Eka,4522554,2,3.08,8,24,Yatim,Aktif,Ada,91
+996,Zaki,4659985,5,3.51,5,18,Lengkap,Aktif,Tidak Ada,55
+997,Aisyah,2902897,5,2.89,5,19,Yatim Piatu,Aktif,Ada,93
+998,Udin,4824909,5,3.02,7,19,Piatu,Tidak Aktif,Ada,85
+999,Vina,4576511,2,3.88,8,24,Piatu,Aktif,Tidak Ada,77
+1000,Udin,2163950,5,2.94,8,22,Yatim,Tidak Aktif,Ada,94
